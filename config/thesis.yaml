@@ -1,0 +1,24 @@
+output_lang: vi
+tracking:
+  - diffusion models / generative modeling
+  - optimal transport
+  - uncertainty / OOD / long-tailed learning
+  - quant trading & market microstructure
+  - SEA fintech / payments / startup ecosystem
+  - capital allocation / VC thesis / moats
+deep_tech_tracking:            # góc nhìn KỸ THUẬT, không phải tin tức bề mặt
+  - xe điện & tự lái (battery chemistry, sensor stack, autonomy stack)
+  - năng lượng & pin (battery tech, grid, energy storage)
+  - vật liệu mới (semiconductor, advanced materials)
+  - robotics (actuators, control, manipulation)
+what_counts_as_matters: >
+  Ưu tiên cái thay đổi cách một thị trường/bài toán vận hành, hoặc lộ ra một
+  bet về tương lai. Với deep tech: ưu tiên giải thích được NGUYÊN LÝ KỸ THUẬT
+  tại sao nó khó / tại sao nó work, không chỉ tin ra mắt sản phẩm. Bỏ qua tin
+  PR, version bump, drama.
+outside_lane_domains:        # nguồn cho mục "mở rộng góc nhìn"
+  - biotech / synthetic bio
+  - energy / climate tech (nếu không trùng deep_tech_tracking)
+  - geopolitics & trade
+  - design / consumer behavior
+keywords_boost: [moat, distribution, why now, unit economics, defensibility]

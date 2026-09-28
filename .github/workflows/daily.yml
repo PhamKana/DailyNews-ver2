@@ -1,0 +1,51 @@
+name: Daily Morning Intel
+
+on:
+  schedule:
+    # 0 23 * * * UTC = 6h sáng giờ VN (Asia/Ho_Chi_Minh, UTC+7), mỗi ngày.
+    - cron: "0 23 * * *"
+  workflow_dispatch: {}
+  # Trigger thủ công từ Cloudflare Worker khi operator gõ /refresh trên
+  # Telegram (xem worker/src/index.js::handleRefresh). Cron + workflow_dispatch
+  # giữ nguyên, chỉ thêm trigger này bên cạnh.
+  repository_dispatch:
+    types: [refresh-digest]
+
+permissions:
+  contents: write
+
+jobs:
+  run-daily-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run daily pipeline
+        env:
+          DRY_RUN: "false"
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          PRODUCTHUNT_TOKEN: ${{ secrets.PRODUCTHUNT_TOKEN }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_KV_NAMESPACE_ID: ${{ secrets.CLOUDFLARE_KV_NAMESPACE_ID }}
+        run: python src/main.py
+
+      - name: Commit state/archive/knowledge
+        run: |
+          git config user.name "morning-intel-bot"
+          git config user.email "actions@github.com"
+          git add state/ archive/ knowledge/
+          git diff --cached --quiet || git commit -m "chore: daily digest $(date -u +%Y-%m-%d)"
+          git push

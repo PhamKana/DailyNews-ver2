@@ -1,0 +1,8023 @@
+{
+  "companies": {
+    "360": {
+      "count": 1,
+      "first_seen": "2026-06-27",
+      "last_seen": "2026-06-27",
+      "rounds": [
+        {
+          "date": "2026-06-27",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "3Cat": {
+      "count": 1,
+      "first_seen": "2026-06-26",
+      "last_seen": "2026-06-26",
+      "rounds": [
+        {
+          "date": "2026-06-26",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "AA-Briefcase": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "rounds": [
+        {
+          "date": "2026-06-19",
+          "investors": [],
+          "round": "Show HN"
+        }
+      ]
+    },
+    "ABS": {
+      "count": 1,
+      "first_seen": "2026-07-29",
+      "last_seen": "2026-07-29",
+      "rounds": [
+        {
+          "date": "2026-07-29",
+          "investors": "not applicable",
+          "round": "not applicable"
+        }
+      ]
+    },
+    "AIPOCH": {
+      "count": 1,
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08",
+      "rounds": [
+        {
+          "date": "2026-09-08",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "AMC Robotics Corporation": {
+      "count": 1,
+      "first_seen": "2026-06-26",
+      "last_seen": "2026-06-26",
+      "rounds": [
+        {
+          "date": "2026-06-26",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "AMD": {
+      "count": 3,
+      "first_seen": "2026-06-20",
+      "last_seen": "2026-08-17",
+      "rounds": [
+        {
+          "date": "2026-06-20",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-08-07",
+          "investors": "not applicable",
+          "round": "acquisition"
+        },
+        {
+          "date": "2026-08-17",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "AWS": {
+      "count": 1,
+      "first_seen": "2026-06-26",
+      "last_seen": "2026-06-26",
+      "rounds": [
+        {
+          "date": "2026-06-26",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Acrab": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "rounds": [
+        {
+          "date": "2026-06-19",
+          "investors": "Not disclosed",
+          "round": "Cumulative $350M"
+        }
+      ]
+    },
+    "Agent-Reach": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "rounds": [
+        {
+          "date": "2026-06-19",
+          "investors": "not clear",
+          "round": "not clear"
+        }
+      ]
+    },
+    "Alibaba": {
+      "count": 3,
+      "first_seen": "2026-07-07",
+      "last_seen": "2026-08-17",
+      "rounds": [
+        {
+          "date": "2026-07-07",
+          "investors": "not_specified",
+          "round": "not_specified"
+        },
+        {
+          "date": "2026-07-28",
+          "investors": "",
+          "round": ""
+        },
+        {
+          "date": "2026-08-17",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "AllenAI": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "rounds": [
+        {
+          "date": "2026-07-02",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Amazon": {
+      "count": 4,
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-08-17",
+      "rounds": [
+        {
+          "date": "2026-08-08",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-08-09",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-08-10",
+          "investors": "not specified",
+          "round": "investment"
+        },
+        {
+          "date": "2026-08-17",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Amilo": {
+      "count": 1,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "rounds": [
+        {
+          "date": "2026-09-15",
+          "investors": "not specified",
+          "round": "Acquisition"
+        }
+      ]
+    },
+    "Amity": {
+      "count": 1,
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-06-29",
+      "rounds": [
+        {
+          "date": "2026-06-29",
+          "investors": [
+            "EDBI"
+          ],
+          "round": "Series D"
+        }
+      ]
+    },
+    "Amnezia VPN": {
+      "count": 1,
+      "first_seen": "2026-07-28",
+      "last_seen": "2026-07-28",
+      "rounds": [
+        {
+          "date": "2026-07-28",
+          "investors": "",
+          "round": ""
+        }
+      ]
+    },
+    "Amos Labs": {
+      "count": 1,
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-08-08",
+      "rounds": [
+        {
+          "date": "2026-08-08",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Ant International": {
+      "count": 1,
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "rounds": [
+        {
+          "date": "2026-08-11",
+          "investors": [],
+          "round": "US$1.2 billion"
+        }
+      ]
+    },
+    "Anthropic": {
+      "count": 30,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-09-24",
+      "rounds": [
+        {
+          "date": "2026-06-22",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-06-22",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-06-23",
+          "investors": [
+            "Menlo Ventures"
+          ],
+          "round": "Series D"
+        },
+        {
+          "date": "2026-06-24",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-06-26",
+          "investors": "N/A",
+          "round": "N/A"
+        },
+        {
+          "date": "2026-06-28",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-06-30",
+          "investors": "N/A",
+          "round": "N/A"
+        },
+        {
+          "date": "2026-07-04",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-07-06",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-07-10",
+          "investors": [],
+          "round": "N/A"
+        },
+        {
+          "date": "2026-07-12",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-07-18",
+          "investors": "N/A",
+          "round": "N/A"
+        },
+        {
+          "date": "2026-07-25",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-07-26",
+          "investors": [],
+          "round": "N/A"
+        },
+        {
+          "date": "2026-07-27",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-08-09",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-08-10",
+          "investors": "not specified",
+          "round": "research"
+        },
+        {
+          "date": "2026-08-16",
+          "investors": "not specified",
+          "round": "not specified"
+        },
+        {
+          "date": "2026-08-18",
+          "investors": "not applicable",
+          "round": "not applicable"
+        },
+        {
+          "date": "2026-08-24",
+          "investors": "N/A",
+          "round": "N/A"
+        },
+        {
+          "date": "2026-09-02",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-05",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-09-07",
+          "investors": [],
+          "round": "N/A"
+        },
+        {
+          "date": "2026-09-13",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-09-14",
+          "investors": [
+            "Insight Partners"
+          ],
+          "round": "not specified"
+        },
+        {
+          "date": "2026-09-17",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-09-18",
+          "investors": "N/A",
+          "round": "N/A"
+        },
+        {
+          "date": "2026-09-19",
+          "investors": [],
+          "round": "not specified"
+        },
+        {
+          "date": "2026-09-23",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-24",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Antler": {
+      "count": 1,
+      "first_seen": "2026-07-07",
+      "last_seen": "2026-07-07",
+      "rounds": [
+        {
+          "date": "2026-07-07",
+          "investors": "not_specified",
+          "round": "not_specified"
+        }
+      ]
+    },
+    "Apple": {
+      "count": 3,
+      "first_seen": "2026-07-10",
+      "last_seen": "2026-09-10",
+      "rounds": [
+        {
+          "date": "2026-07-10",
+          "investors": [],
+          "round": "N/A"
+        },
+        {
+          "date": "2026-08-25",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-09-10",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Atome": {
+      "count": 1,
+      "first_seen": "2026-07-10",
+      "last_seen": "2026-07-10",
+      "rounds": [
+        {
+          "date": "2026-07-10",
+          "investors": [
+            "Asia United Bank"
+          ],
+          "round": "wholesale facility"
+        }
+      ]
+    },
+    "Atome Financial": {
+      "count": 1,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "rounds": [
+        {
+          "date": "2026-09-16",
+          "investors": "Grab (acquirer)",
+          "round": "acquisition"
+        }
+      ]
+    },
+    "Atoms": {
+      "count": 1,
+      "first_seen": "2026-07-22",
+      "last_seen": "2026-07-22",
+      "rounds": [
+        {
+          "date": "2026-07-22",
+          "investors": [
+            "a16z",
+            "Uber",
+            "Bain Capital",
+            "Fifth Wall"
+          ],
+          "round": "$1.7B"
+        }
+      ]
+    },
+    "Automattic": {
+      "count": 1,
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "rounds": [
+        {
+          "date": "2026-09-10",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Basis Set Ventures": {
+      "count": 1,
+      "first_seen": "2026-06-23",
+      "last_seen": "2026-06-23",
+      "rounds": [
+        {
+          "date": "2026-06-23",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Bending Spoons": {
+      "count": 1,
+      "first_seen": "2026-07-05",
+      "last_seen": "2026-07-05",
+      "rounds": [
+        {
+          "date": "2026-07-05",
+          "investors": null,
+          "round": "IPO"
+        }
+      ]
+    },
+    "Bessemer Venture Partners": {
+      "count": 1,
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "rounds": [
+        {
+          "date": "2026-09-24",
+          "investors": "N/A",
+          "round": "$5.75B across two funds"
+        }
+      ]
+    },
+    "BioArk": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "rounds": [
+        {
+          "date": "2026-06-19",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Biobot Surgical": {
+      "count": 1,
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-06-29",
+      "rounds": [
+        {
+          "date": "2026-06-29",
+          "investors": [
+            "ClavystBio",
+            "ZIG Ventures"
+          ],
+          "round": "Series Unknown"
+        }
+      ]
+    },
+    "Block": {
+      "count": 1,
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "rounds": [
+        {
+          "date": "2026-07-27",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Boston Dynamics": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "rounds": [
+        {
+          "date": "2026-06-19",
+          "investors": [
+            "Hyundai",
+            "SoftBank (exited)"
+          ],
+          "round": "acquisition"
+        }
+      ]
+    },
+    "BotTrade": {
+      "count": 1,
+      "first_seen": "2026-07-16",
+      "last_seen": "2026-07-16",
+      "rounds": [
+        {
+          "date": "2026-07-16",
+          "investors": [],
+          "round": ""
+        }
+      ]
+    },
+    "Bundle": {
+      "count": 1,
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "rounds": [
+        {
+          "date": "2026-07-31",
+          "investors": "không rõ",
+          "round": "US$5.5M"
+        }
+      ]
+    },
+    "ByteDance": {
+      "count": 1,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22",
+      "rounds": [
+        {
+          "date": "2026-06-22",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Cactus Compute": {
+      "count": 1,
+      "first_seen": "2026-08-10",
+      "last_seen": "2026-08-10",
+      "rounds": [
+        {
+          "date": "2026-08-10",
+          "investors": "not specified",
+          "round": "product launch"
+        }
+      ]
+    },
+    "Cactus Needle": {
+      "count": 1,
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "rounds": [
+        {
+          "date": "2026-09-18",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Capital One": {
+      "count": 1,
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-07-17",
+      "rounds": [
+        {
+          "date": "2026-07-17",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Castform": {
+      "count": 1,
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "rounds": [
+        {
+          "date": "2026-08-05",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Ceptile": {
+      "count": 1,
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "rounds": [
+        {
+          "date": "2026-09-24",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Cerebras": {
+      "count": 1,
+      "first_seen": "2026-08-13",
+      "last_seen": "2026-08-13",
+      "rounds": [
+        {
+          "date": "2026-08-13",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "ChatGPT": {
+      "count": 1,
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16",
+      "rounds": [
+        {
+          "date": "2026-08-16",
+          "investors": "not specified",
+          "round": "not specified"
+        }
+      ]
+    },
+    "Chatwoot": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "rounds": [
+        {
+          "date": "2026-06-19",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Claude": {
+      "count": 2,
+      "first_seen": "2026-07-29",
+      "last_seen": "2026-08-16",
+      "rounds": [
+        {
+          "date": "2026-07-29",
+          "investors": "not applicable",
+          "round": "not applicable"
+        },
+        {
+          "date": "2026-08-16",
+          "investors": "not specified",
+          "round": "not specified"
+        }
+      ]
+    },
+    "Clay Seal": {
+      "count": 1,
+      "first_seen": "2026-07-08",
+      "last_seen": "2026-07-08",
+      "rounds": [
+        {
+          "date": "2026-07-08",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Cloudflare": {
+      "count": 1,
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-08-08",
+      "rounds": [
+        {
+          "date": "2026-08-08",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Coasty": {
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "rounds": [
+        {
+          "date": "2026-08-07",
+          "investors": [],
+          "round": "N/A"
+        }
+      ]
+    },
+    "Command Code GOAT": {
+      "count": 1,
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "rounds": [
+        {
+          "date": "2026-08-05",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "ComposioHQ": {
+      "count": 1,
+      "first_seen": "2026-07-22",
+      "last_seen": "2026-07-22",
+      "rounds": [
+        {
+          "date": "2026-07-22",
+          "investors": [],
+          "round": "not specified"
+        }
+      ]
+    },
+    "Continue": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "rounds": [
+        {
+          "date": "2026-06-19",
+          "investors": "N/A",
+          "round": "End of life"
+        }
+      ]
+    },
+    "CoolIT": {
+      "count": 1,
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "rounds": [
+        {
+          "date": "2026-09-23",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "CoreWeave": {
+      "count": 1,
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "rounds": [
+        {
+          "date": "2026-07-11",
+          "investors": "Nvidia",
+          "round": "financing"
+        }
+      ]
+    },
+    "Csiro": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "rounds": [
+        {
+          "date": "2026-08-25",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Cursor": {
+      "count": 1,
+      "first_seen": "2026-08-14",
+      "last_seen": "2026-08-14",
+      "rounds": [
+        {
+          "date": "2026-08-14",
+          "investors": [
+            "SpaceX"
+          ],
+          "round": "Acquisition"
+        }
+      ]
+    },
+    "DHL": {
+      "count": 1,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22",
+      "rounds": [
+        {
+          "date": "2026-06-22",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Dassault Systèmes": {
+      "count": 1,
+      "first_seen": "2026-06-26",
+      "last_seen": "2026-06-26",
+      "rounds": [
+        {
+          "date": "2026-06-26",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Databricks": {
+      "count": 2,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-09-18",
+      "rounds": [
+        {
+          "date": "2026-08-07",
+          "investors": [],
+          "round": "N/A"
+        },
+        {
+          "date": "2026-09-18",
+          "investors": "Databricks (self-investment)",
+          "round": "N/A"
+        }
+      ]
+    },
+    "DeepMind": {
+      "count": 2,
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-08-09",
+      "rounds": [
+        {
+          "date": "2026-08-08",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-08-09",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "DeepSeek": {
+      "count": 2,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-09-17",
+      "rounds": [
+        {
+          "date": "2026-08-07",
+          "investors": [],
+          "round": "N/A"
+        },
+        {
+          "date": "2026-09-17",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "DeepSeek AI": {
+      "count": 1,
+      "first_seen": "2026-06-27",
+      "last_seen": "2026-06-27",
+      "rounds": [
+        {
+          "date": "2026-06-27",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "DeepSeek-Reasonix": {
+      "count": 1,
+      "first_seen": "2026-08-03",
+      "last_seen": "2026-08-03",
+      "rounds": [
+        {
+          "date": "2026-08-03",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Deno Land": {
+      "count": 1,
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-08-08",
+      "rounds": [
+        {
+          "date": "2026-08-08",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Desert Ant Labs": {
+      "count": 1,
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "rounds": [
+        {
+          "date": "2026-09-10",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "DeskcommCRM": {
+      "count": 1,
+      "first_seen": "2026-09-13",
+      "last_seen": "2026-09-13",
+      "rounds": [
+        {
+          "date": "2026-09-13",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Dialog (Peter Thiel)": {
+      "count": 1,
+      "first_seen": "2026-07-04",
+      "last_seen": "2026-07-04",
+      "rounds": [
+        {
+          "date": "2026-07-04",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "DiffusionGemma": {
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "rounds": [
+        {
+          "date": "2026-08-20",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "EBOOST": {
+      "count": 1,
+      "first_seen": "2026-07-23",
+      "last_seen": "2026-07-23",
+      "rounds": [
+        {
+          "date": "2026-07-23",
+          "investors": [
+            "Grab"
+          ],
+          "round": "investment"
+        }
+      ]
+    },
+    "ETS Connect UK": {
+      "count": 1,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22",
+      "rounds": [
+        {
+          "date": "2026-06-22",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Edote": {
+      "count": 1,
+      "first_seen": "2026-08-14",
+      "last_seen": "2026-08-14",
+      "rounds": [
+        {
+          "date": "2026-08-14",
+          "investors": [
+            "VentureTECH"
+          ],
+          "round": "Seed/Early Stage"
+        }
+      ]
+    },
+    "Embabel": {
+      "count": 1,
+      "first_seen": "2026-08-13",
+      "last_seen": "2026-08-13",
+      "rounds": [
+        {
+          "date": "2026-08-13",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Endeavor": {
+      "count": 1,
+      "first_seen": "2026-07-29",
+      "last_seen": "2026-07-29",
+      "rounds": [
+        {
+          "date": "2026-07-29",
+          "investors": "not applicable",
+          "round": "not applicable"
+        }
+      ]
+    },
+    "EquiLibre Technologies": {
+      "count": 1,
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-06-30",
+      "rounds": [
+        {
+          "date": "2026-06-30",
+          "investors": "Creandum",
+          "round": "Series A"
+        }
+      ]
+    },
+    "Experiential Labs": {
+      "count": 1,
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "rounds": [
+        {
+          "date": "2026-07-26",
+          "investors": [],
+          "round": "N/A"
+        }
+      ]
+    },
+    "Fab2": {
+      "count": 1,
+      "first_seen": "2026-07-05",
+      "last_seen": "2026-07-05",
+      "rounds": [
+        {
+          "date": "2026-07-05",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Farther": {
+      "count": 1,
+      "first_seen": "2026-07-05",
+      "last_seen": "2026-07-05",
+      "rounds": [
+        {
+          "date": "2026-07-05",
+          "investors": [
+            "General Atlantic",
+            "Bessemer Venture Partners",
+            "Lightspeed",
+            "Khosla"
+          ],
+          "round": "Series D"
+        }
+      ]
+    },
+    "Figure": {
+      "count": 1,
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "rounds": [
+        {
+          "date": "2026-07-25",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Fireblocks": {
+      "count": 1,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "rounds": [
+        {
+          "date": "2026-09-16",
+          "investors": "TrueMoney (partner)",
+          "round": "partnership"
+        }
+      ]
+    },
+    "Fireworks.ai": {
+      "count": 1,
+      "first_seen": "2026-07-21",
+      "last_seen": "2026-07-21",
+      "rounds": [
+        {
+          "date": "2026-07-21",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Fly.io": {
+      "count": 1,
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "rounds": [
+        {
+          "date": "2026-07-25",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Ford": {
+      "count": 1,
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28",
+      "rounds": [
+        {
+          "date": "2026-06-28",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Formas": {
+      "count": 1,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "rounds": [
+        {
+          "date": "2026-09-16",
+          "investors": "n/a",
+          "round": "n/a"
+        }
+      ]
+    },
+    "Froging AI": {
+      "count": 1,
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "rounds": [
+        {
+          "date": "2026-08-23",
+          "investors": [],
+          "round": "N/A"
+        }
+      ]
+    },
+    "Funding Societies": {
+      "count": 2,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-08-07",
+      "rounds": [
+        {
+          "date": "2026-06-19",
+          "investors": "Institutional",
+          "round": "N/A"
+        },
+        {
+          "date": "2026-08-07",
+          "investors": "MDV",
+          "round": "debt/venture debt"
+        }
+      ]
+    },
+    "GM": {
+      "count": 1,
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "rounds": [
+        {
+          "date": "2026-07-25",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "GamesOfArcadia": {
+      "count": 1,
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "rounds": [
+        {
+          "date": "2026-07-11",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "GenLayerLabs": {
+      "count": 1,
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "rounds": [
+        {
+          "date": "2026-08-19",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Goodwater Capital": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "rounds": [
+        {
+          "date": "2026-06-19",
+          "investors": "Chi-Hua Chien",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Google": {
+      "count": 12,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-25",
+      "rounds": [
+        {
+          "date": "2026-06-19",
+          "investors": "N/A",
+          "round": "Public Product"
+        },
+        {
+          "date": "2026-06-22",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-06-28",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-07-11",
+          "investors": "N/A",
+          "round": "N/A"
+        },
+        {
+          "date": "2026-07-26",
+          "investors": [],
+          "round": "N/A"
+        },
+        {
+          "date": "2026-07-27",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-08-07",
+          "investors": [],
+          "round": "N/A"
+        },
+        {
+          "date": "2026-08-08",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-08-13",
+          "investors": "N/A",
+          "round": "N/A"
+        },
+        {
+          "date": "2026-08-18",
+          "investors": "not applicable",
+          "round": "not applicable"
+        },
+        {
+          "date": "2026-09-05",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-09-25",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Google DeepMind": {
+      "count": 2,
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-27",
+      "rounds": [
+        {
+          "date": "2026-07-15",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-07-27",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Grab": {
+      "count": 1,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "rounds": [
+        {
+          "date": "2026-09-16",
+          "investors": "n/a (acquirer)",
+          "round": "acquisition"
+        }
+      ]
+    },
+    "Granite Asia": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "rounds": [
+        {
+          "date": "2026-08-25",
+          "investors": [
+            "DBS Private Bank"
+          ],
+          "round": "Libra Hybrid"
+        }
+      ]
+    },
+    "GrapheneOS": {
+      "count": 1,
+      "first_seen": "2026-07-28",
+      "last_seen": "2026-07-28",
+      "rounds": [
+        {
+          "date": "2026-07-28",
+          "investors": "",
+          "round": ""
+        }
+      ]
+    },
+    "HKUDS": {
+      "count": 1,
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "rounds": [
+        {
+          "date": "2026-09-25",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Hang Ten Systems": {
+      "count": 1,
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "rounds": [
+        {
+          "date": "2026-09-18",
+          "investors": [
+            "Xora",
+            "Mayfield"
+          ],
+          "round": "seed"
+        }
+      ]
+    },
+    "HeyGen": {
+      "count": 1,
+      "first_seen": "2026-06-23",
+      "last_seen": "2026-06-23",
+      "rounds": [
+        {
+          "date": "2026-06-23",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Hugging Face": {
+      "count": 4,
+      "first_seen": "2026-07-21",
+      "last_seen": "2026-08-11",
+      "rounds": [
+        {
+          "date": "2026-07-21",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-07-31",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-08-08",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-08-11",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Human-Centered Computing Foundation": {
+      "count": 1,
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-06-29",
+      "rounds": [
+        {
+          "date": "2026-06-29",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Huzzah": {
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "rounds": [
+        {
+          "date": "2026-08-20",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "IBM": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "rounds": [
+        {
+          "date": "2026-08-25",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "IM8": {
+      "count": 1,
+      "first_seen": "2026-07-14",
+      "last_seen": "2026-07-14",
+      "rounds": [
+        {
+          "date": "2026-07-14",
+          "investors": [
+            "General Catalyst"
+          ],
+          "round": "Funding (CVF)"
+        }
+      ]
+    },
+    "Index Ventures": {
+      "count": 1,
+      "first_seen": "2026-07-18",
+      "last_seen": "2026-07-18",
+      "rounds": [
+        {
+          "date": "2026-07-18",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Inertia": {
+      "count": 1,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "rounds": [
+        {
+          "date": "2026-09-19",
+          "investors": [],
+          "round": "not specified"
+        }
+      ]
+    },
+    "Infineon": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "rounds": [
+        {
+          "date": "2026-07-02",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Infiniflow": {
+      "count": 1,
+      "first_seen": "2026-08-14",
+      "last_seen": "2026-08-14",
+      "rounds": [
+        {
+          "date": "2026-08-14",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Infinity": {
+      "count": 1,
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "rounds": [
+        {
+          "date": "2026-07-20",
+          "investors": "Touring Capital, Principal VC, OpenAI and Anthropic researchers",
+          "round": "$15M"
+        }
+      ]
+    },
+    "Insight Partners": {
+      "count": 1,
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "rounds": [
+        {
+          "date": "2026-09-14",
+          "investors": [],
+          "round": "diversifying strategy"
+        }
+      ]
+    },
+    "Instagram": {
+      "count": 1,
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-06-29",
+      "rounds": [
+        {
+          "date": "2026-06-29",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Intelligent Internet": {
+      "count": 1,
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-06-29",
+      "rounds": [
+        {
+          "date": "2026-06-29",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Iroh": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "rounds": [
+        {
+          "date": "2026-06-19",
+          "investors": "unknown",
+          "round": "unknown"
+        }
+      ]
+    },
+    "IterateAI": {
+      "count": 1,
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "rounds": [
+        {
+          "date": "2026-09-24",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "JCodesMore": {
+      "count": 1,
+      "first_seen": "2026-06-23",
+      "last_seen": "2026-06-23",
+      "rounds": [
+        {
+          "date": "2026-06-23",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "K-Dense-AI": {
+      "count": 1,
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "rounds": [
+        {
+          "date": "2026-08-30",
+          "investors": "",
+          "round": ""
+        }
+      ]
+    },
+    "Keen Code": {
+      "count": 1,
+      "first_seen": "2026-08-10",
+      "last_seen": "2026-08-10",
+      "rounds": [
+        {
+          "date": "2026-08-10",
+          "investors": "not specified",
+          "round": "product launch"
+        }
+      ]
+    },
+    "Kibble": {
+      "count": 1,
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "rounds": [
+        {
+          "date": "2026-09-14",
+          "investors": [],
+          "round": "not specified"
+        }
+      ]
+    },
+    "Kimi": {
+      "count": 1,
+      "first_seen": "2026-07-16",
+      "last_seen": "2026-07-16",
+      "rounds": [
+        {
+          "date": "2026-07-16",
+          "investors": [],
+          "round": ""
+        }
+      ]
+    },
+    "Kimi Code": {
+      "count": 1,
+      "first_seen": "2026-07-29",
+      "last_seen": "2026-07-29",
+      "rounds": [
+        {
+          "date": "2026-07-29",
+          "investors": "not applicable",
+          "round": "not applicable"
+        }
+      ]
+    },
+    "Kimi K3": {
+      "count": 1,
+      "first_seen": "2026-07-18",
+      "last_seen": "2026-07-18",
+      "rounds": [
+        {
+          "date": "2026-07-18",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Kling AI": {
+      "count": 1,
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "rounds": [
+        {
+          "date": "2026-08-11",
+          "investors": [],
+          "round": "US$2.8 billion"
+        }
+      ]
+    },
+    "Kyutai Labs": {
+      "count": 1,
+      "first_seen": "2026-07-10",
+      "last_seen": "2026-07-10",
+      "rounds": [
+        {
+          "date": "2026-07-10",
+          "investors": [],
+          "round": "N/A"
+        }
+      ]
+    },
+    "LINE MAN Wongnai": {
+      "count": 1,
+      "first_seen": "2026-07-08",
+      "last_seen": "2026-07-08",
+      "rounds": [
+        {
+          "date": "2026-07-08",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "LLM Wiki": {
+      "count": 1,
+      "first_seen": "2026-09-13",
+      "last_seen": "2026-09-13",
+      "rounds": [
+        {
+          "date": "2026-09-13",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Laboratoria": {
+      "count": 1,
+      "first_seen": "2026-07-28",
+      "last_seen": "2026-07-28",
+      "rounds": [
+        {
+          "date": "2026-07-28",
+          "investors": "",
+          "round": ""
+        }
+      ]
+    },
+    "LibreChat": {
+      "count": 1,
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "rounds": [
+        {
+          "date": "2026-09-17",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Lightspeed Venture Partners": {
+      "count": 1,
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "rounds": [
+        {
+          "date": "2026-08-05",
+          "investors": null,
+          "round": "VC Strategy"
+        }
+      ]
+    },
+    "LinqAlpha": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "rounds": [
+        {
+          "date": "2026-07-02",
+          "investors": [
+            "AVP",
+            "Atinum Investment",
+            "GFT Ventures"
+          ],
+          "round": "Series A"
+        }
+      ]
+    },
+    "Listen Labs": {
+      "count": 1,
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "rounds": [
+        {
+          "date": "2026-09-10",
+          "investors": "Menlo Ventures (intended)",
+          "round": "Series C (scrapped)"
+        }
+      ]
+    },
+    "London Island Founder House": {
+      "count": 1,
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "rounds": [
+        {
+          "date": "2026-07-26",
+          "investors": [],
+          "round": "N/A"
+        }
+      ]
+    },
+    "M13": {
+      "count": 1,
+      "first_seen": "2026-06-23",
+      "last_seen": "2026-06-23",
+      "rounds": [
+        {
+          "date": "2026-06-23",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "MAS": {
+      "count": 1,
+      "first_seen": "2026-07-29",
+      "last_seen": "2026-07-29",
+      "rounds": [
+        {
+          "date": "2026-07-29",
+          "investors": "not applicable",
+          "round": "not applicable"
+        }
+      ]
+    },
+    "MainFunc": {
+      "count": 1,
+      "first_seen": "2026-07-05",
+      "last_seen": "2026-07-05",
+      "rounds": [
+        {
+          "date": "2026-07-05",
+          "investors": [
+            "Lg Technology Ventures",
+            "SBI Investment",
+            "Emergency Equity Management",
+            "AWS"
+          ],
+          "round": "Series B"
+        }
+      ]
+    },
+    "Manifest.build": {
+      "count": 1,
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "rounds": [
+        {
+          "date": "2026-07-31",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Manus": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "rounds": [
+        {
+          "date": "2026-06-19",
+          "investors": [
+            "Chinese investors (potential)",
+            "Meta (previous)"
+          ],
+          "round": "buyback"
+        }
+      ]
+    },
+    "Mass-Driver": {
+      "count": 1,
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15",
+      "rounds": [
+        {
+          "date": "2026-07-15",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Mastercard": {
+      "count": 1,
+      "first_seen": "2026-08-14",
+      "last_seen": "2026-08-14",
+      "rounds": [
+        {
+          "date": "2026-08-14",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "MathModelAgent": {
+      "count": 1,
+      "first_seen": "2026-09-13",
+      "last_seen": "2026-09-13",
+      "rounds": [
+        {
+          "date": "2026-09-13",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Menlo Ventures": {
+      "count": 1,
+      "first_seen": "2026-06-23",
+      "last_seen": "2026-06-23",
+      "rounds": [
+        {
+          "date": "2026-06-23",
+          "investors": null,
+          "round": "Fundraise"
+        }
+      ]
+    },
+    "Meshery": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "rounds": [
+        {
+          "date": "2026-06-19",
+          "investors": "unknown",
+          "round": "unknown"
+        }
+      ]
+    },
+    "Meta": {
+      "count": 8,
+      "first_seen": "2026-06-23",
+      "last_seen": "2026-08-20",
+      "rounds": [
+        {
+          "date": "2026-06-23",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-06-24",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-06-28",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-06-29",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-07-05",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-07-21",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-08-09",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-08-20",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Microsoft": {
+      "count": 3,
+      "first_seen": "2026-06-24",
+      "last_seen": "2026-07-07",
+      "rounds": [
+        {
+          "date": "2026-06-24",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-07-02",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-07-07",
+          "investors": "not_specified",
+          "round": "not_specified"
+        }
+      ]
+    },
+    "Miles Wang's startup": {
+      "count": 1,
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15",
+      "rounds": [
+        {
+          "date": "2026-07-15",
+          "investors": [
+            "Lightspeed (in talks)"
+          ],
+          "round": "$200M"
+        }
+      ]
+    },
+    "Modular": {
+      "count": 2,
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-19",
+      "rounds": [
+        {
+          "date": "2026-08-11",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-08-19",
+          "investors": [
+            "Qualcomm"
+          ],
+          "round": "acquisition"
+        }
+      ]
+    },
+    "Molecule.dev": {
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "rounds": [
+        {
+          "date": "2026-08-20",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "MoneyHero": {
+      "count": 1,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "rounds": [
+        {
+          "date": "2026-09-15",
+          "investors": "not specified",
+          "round": "Q2 Earnings"
+        }
+      ]
+    },
+    "MoonshotAI": {
+      "count": 1,
+      "first_seen": "2026-07-21",
+      "last_seen": "2026-07-21",
+      "rounds": [
+        {
+          "date": "2026-07-21",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Movadex": {
+      "count": 1,
+      "first_seen": "2026-06-20",
+      "last_seen": "2026-06-20",
+      "rounds": [
+        {
+          "date": "2026-06-20",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Move Robotic": {
+      "count": 1,
+      "first_seen": "2026-08-14",
+      "last_seen": "2026-08-14",
+      "rounds": [
+        {
+          "date": "2026-08-14",
+          "investors": [
+            "VentureTECH"
+          ],
+          "round": "Seed/Early Stage"
+        }
+      ]
+    },
+    "Mtok.market": {
+      "count": 1,
+      "first_seen": "2026-07-08",
+      "last_seen": "2026-07-08",
+      "rounds": [
+        {
+          "date": "2026-07-08",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Multica-AI": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "rounds": [
+        {
+          "date": "2026-08-25",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Mynt": {
+      "count": 2,
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
+      "rounds": [
+        {
+          "date": "2026-09-08",
+          "investors": "not clear from source, but operator of GCash",
+          "round": "IPO"
+        },
+        {
+          "date": "2026-09-09",
+          "investors": "N/A",
+          "round": "IPO"
+        }
+      ]
+    },
+    "NIST": {
+      "count": 1,
+      "first_seen": "2026-07-28",
+      "last_seen": "2026-07-28",
+      "rounds": [
+        {
+          "date": "2026-07-28",
+          "investors": "",
+          "round": ""
+        }
+      ]
+    },
+    "NVIDIA": {
+      "count": 2,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-08-11",
+      "rounds": [
+        {
+          "date": "2026-06-22",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-08-11",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Natural": {
+      "count": 1,
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "rounds": [
+        {
+          "date": "2026-07-20",
+          "investors": "không rõ",
+          "round": "$30M"
+        }
+      ]
+    },
+    "Navegar": {
+      "count": 1,
+      "first_seen": "2026-06-26",
+      "last_seen": "2026-06-26",
+      "rounds": [
+        {
+          "date": "2026-06-26",
+          "investors": "Swedfund",
+          "round": "Fund III"
+        }
+      ]
+    },
+    "Nebius": {
+      "count": 1,
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "rounds": [
+        {
+          "date": "2026-07-11",
+          "investors": "Nvidia",
+          "round": "financing"
+        }
+      ]
+    },
+    "Neon": {
+      "count": 1,
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "rounds": [
+        {
+          "date": "2026-08-05",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Nivalis Energy Europe": {
+      "count": 1,
+      "first_seen": "2026-07-08",
+      "last_seen": "2026-07-08",
+      "rounds": [
+        {
+          "date": "2026-07-08",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "NousResearch": {
+      "count": 1,
+      "first_seen": "2026-06-24",
+      "last_seen": "2026-06-24",
+      "rounds": [
+        {
+          "date": "2026-06-24",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Nutlope": {
+      "count": 1,
+      "first_seen": "2026-07-14",
+      "last_seen": "2026-07-14",
+      "rounds": [
+        {
+          "date": "2026-07-14",
+          "investors": [],
+          "round": "N/A"
+        }
+      ]
+    },
+    "Nvidia": {
+      "count": 3,
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-09-13",
+      "rounds": [
+        {
+          "date": "2026-07-11",
+          "investors": "N/A",
+          "round": "investment"
+        },
+        {
+          "date": "2026-07-15",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-13",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "OMOWAY": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "rounds": [
+        {
+          "date": "2026-07-02",
+          "investors": [
+            "Lochpine Capital",
+            "CATL"
+          ],
+          "round": "Series A/A+"
+        }
+      ]
+    },
+    "Octop": {
+      "count": 1,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "rounds": [
+        {
+          "date": "2026-09-19",
+          "investors": [],
+          "round": "not specified"
+        }
+      ]
+    },
+    "Ollama": {
+      "count": 1,
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "rounds": [
+        {
+          "date": "2026-07-26",
+          "investors": [],
+          "round": "N/A"
+        }
+      ]
+    },
+    "Ollobot": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "rounds": [
+        {
+          "date": "2026-08-25",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Open Interpreter": {
+      "count": 1,
+      "first_seen": "2026-07-18",
+      "last_seen": "2026-07-18",
+      "rounds": [
+        {
+          "date": "2026-07-18",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "OpenAI": {
+      "count": 30,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-23",
+      "rounds": [
+        {
+          "date": "2026-06-19",
+          "investors": [
+            "Amazon"
+          ],
+          "round": "strategic partnership/investment"
+        },
+        {
+          "date": "2026-06-22",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-06-24",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-06-26",
+          "investors": "N/A",
+          "round": "N/A"
+        },
+        {
+          "date": "2026-07-04",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-07-09",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-07-10",
+          "investors": [],
+          "round": "N/A"
+        },
+        {
+          "date": "2026-07-12",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-07-15",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-07-18",
+          "investors": "N/A",
+          "round": "N/A"
+        },
+        {
+          "date": "2026-07-21",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-07-26",
+          "investors": [],
+          "round": "N/A"
+        },
+        {
+          "date": "2026-07-28",
+          "investors": "",
+          "round": ""
+        },
+        {
+          "date": "2026-07-31",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-08-05",
+          "investors": null,
+          "round": "Acquisition"
+        },
+        {
+          "date": "2026-08-08",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-08-09",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-08-11",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-08-13",
+          "investors": "N/A",
+          "round": "N/A"
+        },
+        {
+          "date": "2026-08-18",
+          "investors": "not applicable",
+          "round": "not applicable"
+        },
+        {
+          "date": "2026-08-23",
+          "investors": [],
+          "round": "N/A"
+        },
+        {
+          "date": "2026-09-02",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-04",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-09-05",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-09-07",
+          "investors": [],
+          "round": "N/A"
+        },
+        {
+          "date": "2026-09-09",
+          "investors": "N/A",
+          "round": "N/A"
+        },
+        {
+          "date": "2026-09-13",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-09-14",
+          "investors": [
+            "Insight Partners"
+          ],
+          "round": "not specified"
+        },
+        {
+          "date": "2026-09-19",
+          "investors": [],
+          "round": "not specified"
+        },
+        {
+          "date": "2026-09-23",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "OpenBMB": {
+      "count": 1,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "rounds": [
+        {
+          "date": "2026-09-16",
+          "investors": "n/a",
+          "round": "n/a"
+        }
+      ]
+    },
+    "OpenRouter": {
+      "count": 3,
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-09-05",
+      "rounds": [
+        {
+          "date": "2026-08-16",
+          "investors": "not specified",
+          "round": "acquisition discussion"
+        },
+        {
+          "date": "2026-08-19",
+          "investors": [
+            "Stripe"
+          ],
+          "round": "acquisition"
+        },
+        {
+          "date": "2026-09-05",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "OpenUI": {
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "rounds": [
+        {
+          "date": "2026-09-09",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Oracle": {
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "rounds": [
+        {
+          "date": "2026-08-07",
+          "investors": [],
+          "round": "N/A"
+        }
+      ]
+    },
+    "Osmantic": {
+      "count": 1,
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "rounds": [
+        {
+          "date": "2026-09-02",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "OtterMind": {
+      "count": 1,
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "rounds": [
+        {
+          "date": "2026-07-25",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Oxide Computer": {
+      "count": 1,
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-08-04",
+      "rounds": [
+        {
+          "date": "2026-08-04",
+          "investors": "not clear",
+          "round": "not clear"
+        }
+      ]
+    },
+    "Palantir": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "rounds": [
+        {
+          "date": "2026-07-02",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "PaperclipAI": {
+      "count": 1,
+      "first_seen": "2026-08-13",
+      "last_seen": "2026-08-13",
+      "rounds": [
+        {
+          "date": "2026-08-13",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Permissionless Tech": {
+      "count": 1,
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "rounds": [
+        {
+          "date": "2026-07-27",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "PinLeads": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "rounds": [
+        {
+          "date": "2026-06-19",
+          "investors": [],
+          "round": "Show HN"
+        }
+      ]
+    },
+    "Plane": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "rounds": [
+        {
+          "date": "2026-06-19",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "PolicyStreet": {
+      "count": 1,
+      "first_seen": "2026-07-14",
+      "last_seen": "2026-07-14",
+      "rounds": [
+        {
+          "date": "2026-07-14",
+          "investors": [
+            "BlueOrchard"
+          ],
+          "round": "Series C"
+        }
+      ]
+    },
+    "Pollen Robotics": {
+      "count": 1,
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "rounds": [
+        {
+          "date": "2026-09-02",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "PredictionMarketTrader": {
+      "count": 1,
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "rounds": [
+        {
+          "date": "2026-07-11",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Premiss": {
+      "count": 1,
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "rounds": [
+        {
+          "date": "2026-08-15",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Prime Intellect": {
+      "count": 1,
+      "first_seen": "2026-08-10",
+      "last_seen": "2026-08-10",
+      "rounds": [
+        {
+          "date": "2026-08-10",
+          "investors": "not specified",
+          "round": "product launch"
+        }
+      ]
+    },
+    "PrismML": {
+      "count": 1,
+      "first_seen": "2026-07-14",
+      "last_seen": "2026-07-14",
+      "rounds": [
+        {
+          "date": "2026-07-14",
+          "investors": [],
+          "round": "N/A"
+        }
+      ]
+    },
+    "Proofcraft": {
+      "count": 1,
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "rounds": [
+        {
+          "date": "2026-08-24",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "PropLine": {
+      "count": 1,
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16",
+      "rounds": [
+        {
+          "date": "2026-08-16",
+          "investors": "not specified",
+          "round": "not specified"
+        }
+      ]
+    },
+    "PulseTech": {
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "rounds": [
+        {
+          "date": "2026-08-07",
+          "investors": [
+            "Startup Bangladesh"
+          ],
+          "round": "exit"
+        }
+      ]
+    },
+    "Qapita": {
+      "count": 1,
+      "first_seen": "2026-07-06",
+      "last_seen": "2026-07-06",
+      "rounds": [
+        {
+          "date": "2026-07-06",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Qashier": {
+      "count": 1,
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-06-30",
+      "rounds": [
+        {
+          "date": "2026-06-30",
+          "investors": "Cocoon Capital, IFP Securities, BlackSoil Global",
+          "round": "Series A+"
+        }
+      ]
+    },
+    "Qualcomm": {
+      "count": 1,
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "rounds": [
+        {
+          "date": "2026-08-19",
+          "investors": [
+            "Modular"
+          ],
+          "round": "acquisition"
+        }
+      ]
+    },
+    "Quesma": {
+      "count": 2,
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-09-09",
+      "rounds": [
+        {
+          "date": "2026-06-29",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-09",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Qwen": {
+      "count": 1,
+      "first_seen": "2026-08-14",
+      "last_seen": "2026-08-14",
+      "rounds": [
+        {
+          "date": "2026-08-14",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "ReasonGate": {
+      "count": 1,
+      "first_seen": "2026-07-16",
+      "last_seen": "2026-07-16",
+      "rounds": [
+        {
+          "date": "2026-07-16",
+          "investors": [],
+          "round": ""
+        }
+      ]
+    },
+    "Recove": {
+      "count": 1,
+      "first_seen": "2026-08-14",
+      "last_seen": "2026-08-14",
+      "rounds": [
+        {
+          "date": "2026-08-14",
+          "investors": [
+            "VentureTECH"
+          ],
+          "round": "Seed/Early Stage"
+        }
+      ]
+    },
+    "Rillet": {
+      "count": 1,
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "rounds": [
+        {
+          "date": "2026-08-21",
+          "investors": [
+            "Iconiq",
+            "Sequoia",
+            "Andreessen Horowitz"
+          ],
+          "round": "$100M at $1B valuation"
+        }
+      ]
+    },
+    "Rivian": {
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "rounds": [
+        {
+          "date": "2026-09-09",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Roboflow": {
+      "count": 1,
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "rounds": [
+        {
+          "date": "2026-08-05",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "RomM": {
+      "count": 1,
+      "first_seen": "2026-07-04",
+      "last_seen": "2026-07-04",
+      "rounds": [
+        {
+          "date": "2026-07-04",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "SG Link": {
+      "count": 1,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "rounds": [
+        {
+          "date": "2026-09-15",
+          "investors": "not specified",
+          "round": "Acquisition"
+        }
+      ]
+    },
+    "Sakana AI": {
+      "count": 1,
+      "first_seen": "2026-06-27",
+      "last_seen": "2026-06-27",
+      "rounds": [
+        {
+          "date": "2026-06-27",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Salesforce": {
+      "count": 1,
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "rounds": [
+        {
+          "date": "2026-09-10",
+          "investors": "N/A",
+          "round": "Acquisition talks"
+        }
+      ]
+    },
+    "Samsung": {
+      "count": 1,
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "rounds": [
+        {
+          "date": "2026-09-25",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Seedcamp": {
+      "count": 1,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22",
+      "rounds": [
+        {
+          "date": "2026-06-22",
+          "investors": "Not specified, but they are the investor",
+          "round": "Fund VII"
+        }
+      ]
+    },
+    "Semantica AGI": {
+      "count": 1,
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-08-08",
+      "rounds": [
+        {
+          "date": "2026-08-08",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Semgrep": {
+      "count": 1,
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28",
+      "rounds": [
+        {
+          "date": "2026-06-28",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "SignalDesk": {
+      "count": 1,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22",
+      "rounds": [
+        {
+          "date": "2026-06-22",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Significant-Gravitas": {
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "rounds": [
+        {
+          "date": "2026-08-07",
+          "investors": [],
+          "round": "N/A"
+        }
+      ]
+    },
+    "SnailSploit": {
+      "count": 1,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "rounds": [
+        {
+          "date": "2026-09-16",
+          "investors": "n/a",
+          "round": "n/a"
+        }
+      ]
+    },
+    "Snowflake": {
+      "count": 1,
+      "first_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "rounds": [
+        {
+          "date": "2026-08-17",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Socket": {
+      "count": 1,
+      "first_seen": "2026-07-05",
+      "last_seen": "2026-07-05",
+      "rounds": [
+        {
+          "date": "2026-07-05",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "SpaceX": {
+      "count": 2,
+      "first_seen": "2026-08-14",
+      "last_seen": "2026-09-05",
+      "rounds": [
+        {
+          "date": "2026-08-14",
+          "investors": null,
+          "round": "Acquisition"
+        },
+        {
+          "date": "2026-09-05",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Sparrow Systems": {
+      "count": 1,
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "rounds": [
+        {
+          "date": "2026-09-17",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Spellfolio": {
+      "count": 1,
+      "first_seen": "2026-08-03",
+      "last_seen": "2026-08-03",
+      "rounds": [
+        {
+          "date": "2026-08-03",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Spinifex": {
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "rounds": [
+        {
+          "date": "2026-09-09",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Stanley Robotics": {
+      "count": 1,
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "rounds": [
+        {
+          "date": "2026-07-26",
+          "investors": [],
+          "round": "N/A"
+        }
+      ]
+    },
+    "StartupWiki": {
+      "count": 1,
+      "first_seen": "2026-06-20",
+      "last_seen": "2026-06-20",
+      "rounds": [
+        {
+          "date": "2026-06-20",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Stoa Markets": {
+      "count": 1,
+      "first_seen": "2026-08-10",
+      "last_seen": "2026-08-10",
+      "rounds": [
+        {
+          "date": "2026-08-10",
+          "investors": "Y Combinator",
+          "round": "YC S26"
+        }
+      ]
+    },
+    "Stripe": {
+      "count": 3,
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-09-24",
+      "rounds": [
+        {
+          "date": "2026-08-16",
+          "investors": "not specified",
+          "round": "acquisition discussion"
+        },
+        {
+          "date": "2026-08-19",
+          "investors": [
+            "OpenRouter"
+          ],
+          "round": "acquisition"
+        },
+        {
+          "date": "2026-09-24",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "StubHub": {
+      "count": 1,
+      "first_seen": "2026-07-14",
+      "last_seen": "2026-07-14",
+      "rounds": [
+        {
+          "date": "2026-07-14",
+          "investors": [],
+          "round": "N/A"
+        }
+      ]
+    },
+    "Sunrate": {
+      "count": 1,
+      "first_seen": "2026-08-14",
+      "last_seen": "2026-08-14",
+      "rounds": [
+        {
+          "date": "2026-08-14",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Sycloop": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "rounds": [
+        {
+          "date": "2026-06-19",
+          "investors": "not clear",
+          "round": "early access"
+        }
+      ]
+    },
+    "Taalas": {
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "rounds": [
+        {
+          "date": "2026-08-07",
+          "investors": "not applicable",
+          "round": "acquisition"
+        }
+      ]
+    },
+    "Tailscale": {
+      "count": 2,
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-31",
+      "rounds": [
+        {
+          "date": "2026-07-11",
+          "investors": "N/A",
+          "round": "N/A"
+        },
+        {
+          "date": "2026-07-31",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Tencent": {
+      "count": 1,
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "rounds": [
+        {
+          "date": "2026-08-21",
+          "investors": [],
+          "round": "N/A"
+        }
+      ]
+    },
+    "TencentCloud": {
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "rounds": [
+        {
+          "date": "2026-08-07",
+          "investors": "not applicable",
+          "round": "product launch"
+        }
+      ]
+    },
+    "Tesla": {
+      "count": 3,
+      "first_seen": "2026-06-20",
+      "last_seen": "2026-09-16",
+      "rounds": [
+        {
+          "date": "2026-06-20",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-09-08",
+          "investors": "N/A",
+          "round": "N/A"
+        },
+        {
+          "date": "2026-09-16",
+          "investors": "Martin Eberhard (founder), Alan Cocconi (tZero creator)",
+          "round": "early stage (historical)"
+        }
+      ]
+    },
+    "The Boring Company": {
+      "count": 1,
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "rounds": [
+        {
+          "date": "2026-07-25",
+          "investors": null,
+          "round": "Series Unknown"
+        }
+      ]
+    },
+    "The-Swarm-Corporation": {
+      "count": 1,
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08",
+      "rounds": [
+        {
+          "date": "2026-09-08",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Thinking Machines Lab": {
+      "count": 1,
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15",
+      "rounds": [
+        {
+          "date": "2026-07-15",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "Thrive Holdings": {
+      "count": 1,
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "rounds": [
+        {
+          "date": "2026-08-12",
+          "investors": [
+            "SoftBank",
+            "D1 Capital Partners",
+            "Altimeter Capital",
+            "OpenAI"
+          ],
+          "round": "$2B"
+        }
+      ]
+    },
+    "Thunderbird": {
+      "count": 1,
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "rounds": [
+        {
+          "date": "2026-08-15",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Thunes": {
+      "count": 1,
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "rounds": [
+        {
+          "date": "2026-09-02",
+          "investors": "not specified",
+          "round": "late-stage"
+        }
+      ]
+    },
+    "TokenLab": {
+      "count": 1,
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "rounds": [
+        {
+          "date": "2026-08-15",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Toot": {
+      "count": 1,
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "rounds": [
+        {
+          "date": "2026-07-09",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "TrueMoney": {
+      "count": 1,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "rounds": [
+        {
+          "date": "2026-09-16",
+          "investors": "Fireblocks (partner)",
+          "round": "partnership"
+        }
+      ]
+    },
+    "Tsubaki KabelSchlepp": {
+      "count": 1,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "rounds": [
+        {
+          "date": "2026-09-04",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "TypeSafe AI": {
+      "count": 1,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "rounds": [
+        {
+          "date": "2026-09-16",
+          "investors": "n/a",
+          "round": "n/a"
+        }
+      ]
+    },
+    "Ubicloud": {
+      "count": 1,
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-03",
+      "rounds": [
+        {
+          "date": "2026-07-03",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Unsloth": {
+      "count": 3,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-08-19",
+      "rounds": [
+        {
+          "date": "2026-06-22",
+          "investors": "N/A",
+          "round": "N/A"
+        },
+        {
+          "date": "2026-08-14",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-08-19",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "VLM Run": {
+      "count": 1,
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "rounds": [
+        {
+          "date": "2026-09-05",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Vectoral": {
+      "count": 1,
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "rounds": [
+        {
+          "date": "2026-07-26",
+          "investors": [],
+          "round": "N/A"
+        }
+      ]
+    },
+    "Viettel": {
+      "count": 1,
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "rounds": [
+        {
+          "date": "2026-09-25",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Vinaa.ai": {
+      "count": 1,
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16",
+      "rounds": [
+        {
+          "date": "2026-08-16",
+          "investors": "not specified",
+          "round": "not specified"
+        }
+      ]
+    },
+    "VoltAgent": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "rounds": [
+        {
+          "date": "2026-08-25",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "WhiskeySockets": {
+      "count": 1,
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "rounds": [
+        {
+          "date": "2026-07-31",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Wiz": {
+      "count": 1,
+      "first_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "rounds": [
+        {
+          "date": "2026-08-17",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Xero": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "rounds": [
+        {
+          "date": "2026-06-19",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Xiaomi": {
+      "count": 2,
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-08-24",
+      "rounds": [
+        {
+          "date": "2026-06-28",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-08-24",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Y Combinator": {
+      "count": 1,
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "rounds": [
+        {
+          "date": "2026-09-14",
+          "investors": [],
+          "round": "Demo Day"
+        }
+      ]
+    },
+    "Yosemite": {
+      "count": 1,
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-12",
+      "rounds": [
+        {
+          "date": "2026-07-12",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Youtilitics": {
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "rounds": [
+        {
+          "date": "2026-08-20",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "YuE2": {
+      "count": 1,
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "rounds": [
+        {
+          "date": "2026-09-14",
+          "investors": [],
+          "round": "not specified"
+        }
+      ]
+    },
+    "a16z": {
+      "count": 2,
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-09-23",
+      "rounds": [
+        {
+          "date": "2026-08-05",
+          "investors": null,
+          "round": "Acquisition"
+        },
+        {
+          "date": "2026-09-23",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "addyosmani": {
+      "count": 1,
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "rounds": [
+        {
+          "date": "2026-07-09",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "comma.ai": {
+      "count": 1,
+      "first_seen": "2026-06-27",
+      "last_seen": "2026-06-27",
+      "rounds": [
+        {
+          "date": "2026-06-27",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "dConstruct Technologies": {
+      "count": 1,
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-03",
+      "rounds": [
+        {
+          "date": "2026-07-03",
+          "investors": "National Robotics Programme of Singapore",
+          "round": "Series A"
+        }
+      ]
+    },
+    "deepreinforce-ai": {
+      "count": 1,
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-06-29",
+      "rounds": [
+        {
+          "date": "2026-06-29",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "dottxt-ai": {
+      "count": 1,
+      "first_seen": "2026-07-22",
+      "last_seen": "2026-07-22",
+      "rounds": [
+        {
+          "date": "2026-07-22",
+          "investors": [],
+          "round": "not specified"
+        }
+      ]
+    },
+    "dtcpay": {
+      "count": 1,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "rounds": [
+        {
+          "date": "2026-09-19",
+          "investors": [
+            "SBI"
+          ],
+          "round": "US$25M"
+        }
+      ]
+    },
+    "etaily": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "rounds": [
+        {
+          "date": "2026-07-02",
+          "investors": [
+            "Vynn Capital"
+          ],
+          "round": "strategic investment"
+        }
+      ]
+    },
+    "iOfficeAI": {
+      "count": 1,
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "rounds": [
+        {
+          "date": "2026-07-09",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "id Software": {
+      "count": 1,
+      "first_seen": "2026-07-07",
+      "last_seen": "2026-07-07",
+      "rounds": [
+        {
+          "date": "2026-07-07",
+          "investors": "not_specified",
+          "round": "not_specified"
+        }
+      ]
+    },
+    "jamiepine": {
+      "count": 1,
+      "first_seen": "2026-07-21",
+      "last_seen": "2026-07-21",
+      "rounds": [
+        {
+          "date": "2026-07-21",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "lyogavin": {
+      "count": 1,
+      "first_seen": "2026-06-23",
+      "last_seen": "2026-06-23",
+      "rounds": [
+        {
+          "date": "2026-06-23",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "moeru-ai": {
+      "count": 1,
+      "first_seen": "2026-07-14",
+      "last_seen": "2026-07-14",
+      "rounds": [
+        {
+          "date": "2026-07-14",
+          "investors": [],
+          "round": "N/A"
+        }
+      ]
+    },
+    "n8n": {
+      "count": 1,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "rounds": [
+        {
+          "date": "2026-09-19",
+          "investors": [],
+          "round": "not specified"
+        }
+      ]
+    },
+    "opendatalab": {
+      "count": 1,
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-06-29",
+      "rounds": [
+        {
+          "date": "2026-06-29",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "pQCee": {
+      "count": 1,
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-07-17",
+      "rounds": [
+        {
+          "date": "2026-07-17",
+          "investors": "SGInnovate, Lotus One Investment, In Group Holdings, Wavemaker Ventures, SUTD Venture Holdings, Apsara",
+          "round": "Seed"
+        }
+      ]
+    },
+    "tashfeenahmed": {
+      "count": 1,
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "rounds": [
+        {
+          "date": "2026-08-30",
+          "investors": "",
+          "round": ""
+        }
+      ]
+    },
+    "vitali87": {
+      "count": 1,
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "rounds": [
+        {
+          "date": "2026-08-11",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "xAI": {
+      "count": 3,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-09-05",
+      "rounds": [
+        {
+          "date": "2026-06-22",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-07-15",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-05",
+          "investors": null,
+          "round": null
+        }
+      ]
+    }
+  },
+  "deep_tech": {
+    "AI Agent Alignment": {
+      "count": 1,
+      "domain": "AI",
+      "first_seen": "2026-07-21",
+      "last_seen": "2026-07-21"
+    },
+    "AI Agent Control": {
+      "count": 1,
+      "domain": "AI",
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31"
+    },
+    "AI Model Optimization": {
+      "count": 13,
+      "domain": "AI",
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-09-17"
+    },
+    "AI Model Optimization for LLM Inference": {
+      "count": 1,
+      "domain": "AI/ML Systems",
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24"
+    },
+    "AI digital inequality": {
+      "count": 1,
+      "domain": "Societal Impact of AI",
+      "first_seen": "2026-07-29",
+      "last_seen": "2026-07-29"
+    },
+    "AI for Power Grids": {
+      "count": 1,
+      "domain": "Energy & Grid",
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05"
+    },
+    "AI for research-level mathematics": {
+      "count": 1,
+      "domain": "AI Model Optimization",
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08"
+    },
+    "AI literacy": {
+      "count": 1,
+      "domain": "AI Education",
+      "first_seen": "2026-07-29",
+      "last_seen": "2026-07-29"
+    },
+    "AI tutor": {
+      "count": 1,
+      "domain": "AI for education",
+      "first_seen": "2026-07-05",
+      "last_seen": "2026-07-05"
+    },
+    "AI-Driven Cognitive Systems": {
+      "count": 1,
+      "domain": "Defense/Electronic Warfare",
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27"
+    },
+    "AI-connected test and measurement platforms": {
+      "count": 1,
+      "domain": "AI Engineering / Semiconductor",
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24"
+    },
+    "ALOHAnet": {
+      "count": 1,
+      "domain": "Networking",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11"
+    },
+    "Acrab Compute": {
+      "count": 1,
+      "domain": "AI Infrastructure",
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19"
+    },
+    "Advanced Materials": {
+      "count": 4,
+      "domain": "Materials Science",
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-08-25"
+    },
+    "Agentic AI for Root Cause Analysis": {
+      "count": 1,
+      "domain": "Semiconductor Manufacturing",
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21"
+    },
+    "Agritech": {
+      "count": 1,
+      "domain": "agriculture/biotech",
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19"
+    },
+    "Al-doped ZnO": {
+      "count": 1,
+      "domain": "Semiconductors / Advanced Materials",
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19"
+    },
+    "Antenna Coupling": {
+      "count": 1,
+      "domain": "Electromagnetics/RF Engineering",
+      "first_seen": "2026-08-14",
+      "last_seen": "2026-08-14"
+    },
+    "Artificial Intelligence": {
+      "count": 1,
+      "domain": "General AI History",
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22"
+    },
+    "Artificial Neurons on Silicon Chips": {
+      "count": 1,
+      "domain": "semiconductor",
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-06-29"
+    },
+    "Asteroid Occultation Measurement": {
+      "count": 1,
+      "domain": "Astronomy/Sensor",
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25"
+    },
+    "Astra": {
+      "count": 1,
+      "domain": "Autonomy Stack",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02"
+    },
+    "Autonomous Agent Training": {
+      "count": 1,
+      "domain": "AI Engineering",
+      "first_seen": "2026-07-14",
+      "last_seen": "2026-07-14"
+    },
+    "Autonomous Vehicle Safety": {
+      "count": 1,
+      "domain": "Autonomy Stack",
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22"
+    },
+    "Autonomy Stack": {
+      "count": 10,
+      "domain": "EV/AV",
+      "first_seen": "2026-06-20",
+      "last_seen": "2026-09-16"
+    },
+    "Battery Chemistry": {
+      "count": 1,
+      "domain": "EV & Autonomy",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "Battery Tech": {
+      "count": 1,
+      "domain": "energy & battery",
+      "first_seen": "2026-06-26",
+      "last_seen": "2026-06-26"
+    },
+    "Battery Technology": {
+      "count": 1,
+      "domain": "energy & pin",
+      "first_seen": "2026-07-08",
+      "last_seen": "2026-07-08"
+    },
+    "CPU Architecture": {
+      "count": 1,
+      "domain": "Semiconductor",
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24"
+    },
+    "CellularFlow": {
+      "count": 1,
+      "domain": "AI Model Optimization/LLM Architecture",
+      "first_seen": "2026-09-07",
+      "last_seen": "2026-09-07"
+    },
+    "Chip Production": {
+      "count": 1,
+      "domain": "semiconductor",
+      "first_seen": "2026-08-09",
+      "last_seen": "2026-08-09"
+    },
+    "Claude Fable/Mythos": {
+      "count": 1,
+      "domain": "AI Model Optimization",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02"
+    },
+    "Colossus": {
+      "count": 1,
+      "domain": "early computing/cryptography",
+      "first_seen": "2026-07-22",
+      "last_seen": "2026-07-22"
+    },
+    "Computational Mathematics": {
+      "count": 1,
+      "domain": "AI/Mathematics",
+      "first_seen": "2026-08-10",
+      "last_seen": "2026-08-10"
+    },
+    "Contextual Emotion AI": {
+      "count": 1,
+      "domain": "AI/Cognitive Science",
+      "first_seen": "2026-06-23",
+      "last_seen": "2026-06-23"
+    },
+    "Cryptography": {
+      "count": 1,
+      "domain": "Computer Science",
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25"
+    },
+    "DSpark": {
+      "count": 1,
+      "domain": "AI / LLM Optimization",
+      "first_seen": "2026-06-27",
+      "last_seen": "2026-06-27"
+    },
+    "Data Integration": {
+      "count": 1,
+      "domain": "Environmental Monitoring",
+      "first_seen": "2026-07-16",
+      "last_seen": "2026-07-16"
+    },
+    "Data Processing for Scientific Research": {
+      "count": 1,
+      "domain": "Deep Tech Application",
+      "first_seen": "2026-07-21",
+      "last_seen": "2026-07-21"
+    },
+    "Differentiable Composite Approximation Framework": {
+      "count": 1,
+      "domain": "Autonomous Underwater Vehicle (AUV) maneuvering modeling",
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19"
+    },
+    "Diffusion Models": {
+      "count": 1,
+      "domain": "Generative AI",
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20"
+    },
+    "Digital Signal Processing": {
+      "count": 1,
+      "domain": "Signal Processing",
+      "first_seen": "2026-08-14",
+      "last_seen": "2026-08-14"
+    },
+    "Digital Surveillance": {
+      "count": 1,
+      "domain": "Fishery Enforcement",
+      "first_seen": "2026-07-16",
+      "last_seen": "2026-07-16"
+    },
+    "Digital Transformation": {
+      "count": 1,
+      "domain": "SEA Fintech / Payments / Startup Ecosystem",
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-11"
+    },
+    "ELIZA": {
+      "count": 1,
+      "domain": "Natural Language Processing",
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15"
+    },
+    "EV Charging Infrastructure": {
+      "count": 1,
+      "domain": "Energy Storage",
+      "first_seen": "2026-07-23",
+      "last_seen": "2026-07-23"
+    },
+    "EV technology": {
+      "count": 1,
+      "domain": "Clean Mobility",
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24"
+    },
+    "Electric Axle": {
+      "count": 1,
+      "domain": "EV & autonomous",
+      "first_seen": "2026-07-08",
+      "last_seen": "2026-07-08"
+    },
+    "Electric Vehicles": {
+      "count": 1,
+      "domain": "EV & autonomous",
+      "first_seen": "2026-07-08",
+      "last_seen": "2026-07-08"
+    },
+    "Energy Grid Stability": {
+      "count": 1,
+      "domain": "Energy",
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-03"
+    },
+    "Energy History": {
+      "count": 1,
+      "domain": "Electrical Engineering",
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-06-30"
+    },
+    "Energy Storage": {
+      "count": 4,
+      "domain": "Energy",
+      "first_seen": "2026-06-26",
+      "last_seen": "2026-08-25"
+    },
+    "FIBSEM": {
+      "count": 1,
+      "domain": "Semiconductor Failure Analysis",
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20"
+    },
+    "Fab2": {
+      "count": 1,
+      "domain": "semiconductor manufacturing",
+      "first_seen": "2026-07-05",
+      "last_seen": "2026-07-05"
+    },
+    "Foundation Stack for General-Purpose Robots": {
+      "count": 1,
+      "domain": "Robotics",
+      "first_seen": "2026-07-13",
+      "last_seen": "2026-07-13"
+    },
+    "Full Self-Driving/Autopilot": {
+      "count": 1,
+      "domain": "Autonomy Stack",
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08"
+    },
+    "Fusion Power": {
+      "count": 1,
+      "domain": "Energy",
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19"
+    },
+    "GPU-Parallel Linearization Error Bounds": {
+      "count": 1,
+      "domain": "Optimal Control",
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02"
+    },
+    "Generative Modeling": {
+      "count": 1,
+      "domain": "AI",
+      "first_seen": "2026-07-07",
+      "last_seen": "2026-07-07"
+    },
+    "Glass Carriers": {
+      "count": 1,
+      "domain": "Advanced Materials",
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21"
+    },
+    "Gravitational Constant Measurement": {
+      "count": 1,
+      "domain": "Physics",
+      "first_seen": "2026-07-28",
+      "last_seen": "2026-07-28"
+    },
+    "Grid Capacity Utilization": {
+      "count": 1,
+      "domain": "Energy & Grid",
+      "first_seen": "2026-06-23",
+      "last_seen": "2026-06-23"
+    },
+    "Grok Build": {
+      "count": 1,
+      "domain": "AI Agents",
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15"
+    },
+    "HBM4/HBM4E DRAM": {
+      "count": 1,
+      "domain": "Semiconductor",
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21"
+    },
+    "High Frequency Communication": {
+      "count": 1,
+      "domain": "communication",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09"
+    },
+    "High-Performance Computing": {
+      "count": 1,
+      "domain": "GPU Acceleration",
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-06-29"
+    },
+    "Hydrogen Production": {
+      "count": 1,
+      "domain": "Energy & Pin",
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-11"
+    },
+    "Inkling": {
+      "count": 1,
+      "domain": "Generative Modeling",
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15"
+    },
+    "Intrinsic Mechanical Quality Factor Determination": {
+      "count": 1,
+      "domain": "High-stress silicon nitride resonators",
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19"
+    },
+    "Iroh Networking": {
+      "count": 1,
+      "domain": "Decentralized Computing",
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19"
+    },
+    "LED": {
+      "count": 1,
+      "domain": "Lighting Technology / Environmental Impact",
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20"
+    },
+    "LLM Safety/Security": {
+      "count": 1,
+      "domain": "AI Engineering",
+      "first_seen": "2026-07-14",
+      "last_seen": "2026-07-14"
+    },
+    "LLM mechanisms": {
+      "count": 1,
+      "domain": "Artificial Intelligence",
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22"
+    },
+    "Lagrange": {
+      "count": 1,
+      "domain": "Autonomous Driving",
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19"
+    },
+    "Large Language Models": {
+      "count": 1,
+      "domain": "AI/NLP",
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19"
+    },
+    "Liquid Cooling": {
+      "count": 1,
+      "domain": "data center infrastructure",
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23"
+    },
+    "Magnetophon": {
+      "count": 1,
+      "domain": "Advanced Materials",
+      "first_seen": "2026-08-02",
+      "last_seen": "2026-08-02"
+    },
+    "Medical Information System (MIS-I)": {
+      "count": 1,
+      "domain": "Healthcare IT",
+      "first_seen": "2026-08-03",
+      "last_seen": "2026-08-03"
+    },
+    "Microduck RL": {
+      "count": 1,
+      "domain": "Robotics",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02"
+    },
+    "MinSurf": {
+      "count": 1,
+      "domain": "materials science",
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19"
+    },
+    "Modos E-Paper": {
+      "count": 1,
+      "domain": "Display Hardware",
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19"
+    },
+    "Moebius": {
+      "count": 1,
+      "domain": "Generative AI, Computer Vision",
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22"
+    },
+    "Mojo": {
+      "count": 1,
+      "domain": "AI Model Optimization, Heterogeneous Computing",
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19"
+    },
+    "Multi-model AI Orchestration": {
+      "count": 1,
+      "domain": "AI Model Optimization",
+      "first_seen": "2026-07-23",
+      "last_seen": "2026-07-23"
+    },
+    "Multiphysics Simulation": {
+      "count": 1,
+      "domain": "Electronics Reliability",
+      "first_seen": "2026-08-03",
+      "last_seen": "2026-08-03"
+    },
+    "N/A": {
+      "count": 1,
+      "domain": "N/A",
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10"
+    },
+    "Novel Enzyme System Discovery": {
+      "count": 1,
+      "domain": "Biology/Biotech",
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24"
+    },
+    "Nuclear Engines": {
+      "count": 1,
+      "domain": "Energy/Propulsion",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30"
+    },
+    "Nuclear Reactors": {
+      "count": 1,
+      "domain": "Energy",
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22"
+    },
+    "Origami Circuit Board": {
+      "count": 1,
+      "domain": "Advanced Materials / Flexible Electronics",
+      "first_seen": "2026-06-24",
+      "last_seen": "2026-06-24"
+    },
+    "PLFM_RADAR": {
+      "count": 1,
+      "domain": "Robotics, Sensor Stack",
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19"
+    },
+    "Perovskite Nanocrystals": {
+      "count": 1,
+      "domain": "Optoelectronics / Advanced Materials",
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19"
+    },
+    "Peter G. Neumann's work": {
+      "count": 1,
+      "domain": "System Dependability",
+      "first_seen": "2026-07-10",
+      "last_seen": "2026-07-10"
+    },
+    "Physical AI": {
+      "count": 1,
+      "domain": "AI",
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12"
+    },
+    "Post-Quantum Cybersecurity": {
+      "count": 1,
+      "domain": "Advanced Materials",
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-07-17"
+    },
+    "Product Lifecycle Management (PLM)": {
+      "count": 1,
+      "domain": "Software Engineering",
+      "first_seen": "2026-06-26",
+      "last_seen": "2026-06-26"
+    },
+    "Pyrotechnics History": {
+      "count": 1,
+      "domain": "Control Systems",
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-06-30"
+    },
+    "Quantum Oracle Engineering": {
+      "count": 1,
+      "domain": "Quantum Computing",
+      "first_seen": "2026-09-07",
+      "last_seen": "2026-09-07"
+    },
+    "Quantum Physics": {
+      "count": 1,
+      "domain": "Physics",
+      "first_seen": "2026-08-13",
+      "last_seen": "2026-08-13"
+    },
+    "Quantum Tech": {
+      "count": 1,
+      "domain": "Physics",
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25"
+    },
+    "RFIC design": {
+      "count": 1,
+      "domain": "AI-driven chip design",
+      "first_seen": "2026-06-24",
+      "last_seen": "2026-06-24"
+    },
+    "RLM Library": {
+      "count": 1,
+      "domain": "Inference Paradigms",
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19"
+    },
+    "Radar and Electronic Warfare": {
+      "count": 1,
+      "domain": "Defense/Electronic Warfare",
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27"
+    },
+    "Radio Communication": {
+      "count": 1,
+      "domain": "robotics",
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01"
+    },
+    "Real-Time Robust Optimal Control": {
+      "count": 1,
+      "domain": "Nonlinear and Neural Network Dynamics",
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02"
+    },
+    "Regenerative Braking": {
+      "count": 1,
+      "domain": "EV & autonomous",
+      "first_seen": "2026-07-08",
+      "last_seen": "2026-07-08"
+    },
+    "Responsible AI": {
+      "count": 1,
+      "domain": "AI Ethics & Governance",
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15"
+    },
+    "Risk Management": {
+      "count": 1,
+      "domain": "Software Engineering",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-08-01"
+    },
+    "Robot Safety": {
+      "count": 1,
+      "domain": "Robotics",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17"
+    },
+    "Robotic-assisted prostate cancer care platform": {
+      "count": 1,
+      "domain": "robotics",
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-06-29"
+    },
+    "Robotics": {
+      "count": 11,
+      "domain": "bioinspired",
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-23"
+    },
+    "Robotics Assembly Skills": {
+      "count": 1,
+      "domain": "Robotics",
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-07-17"
+    },
+    "Robotics for GPS-denied environments": {
+      "count": 1,
+      "domain": "Robotics",
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-03"
+    },
+    "Role perception in LLMs": {
+      "count": 1,
+      "domain": "Artificial Intelligence",
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22"
+    },
+    "Satellite Monitoring": {
+      "count": 1,
+      "domain": "Environmental Monitoring",
+      "first_seen": "2026-07-16",
+      "last_seen": "2026-07-16"
+    },
+    "Semiconductor": {
+      "count": 3,
+      "domain": "advanced materials",
+      "first_seen": "2026-06-20",
+      "last_seen": "2026-09-01"
+    },
+    "Semiconductor Analytics": {
+      "count": 1,
+      "domain": "Manufacturing Yield",
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21"
+    },
+    "Sensor Stack": {
+      "count": 2,
+      "domain": "EV & Autonomy",
+      "first_seen": "2026-06-20",
+      "last_seen": "2026-06-28"
+    },
+    "Sensor stack": {
+      "count": 1,
+      "domain": "Wireless Sensing",
+      "first_seen": "2026-07-06",
+      "last_seen": "2026-07-06"
+    },
+    "Shared Mobile Storage": {
+      "count": 1,
+      "domain": "Energy Storage",
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19"
+    },
+    "Social Media Addiction": {
+      "count": 1,
+      "domain": "Behavioral Science & Product Design",
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15"
+    },
+    "Sodium-ion Batteries": {
+      "count": 1,
+      "domain": "Energy Storage",
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25"
+    },
+    "Solar Panels": {
+      "count": 1,
+      "domain": "Renewable Energy",
+      "first_seen": "2026-09-07",
+      "last_seen": "2026-09-07"
+    },
+    "Substation Exit Engineering": {
+      "count": 1,
+      "domain": "Energy & Grid",
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25"
+    },
+    "Tech Education for Women": {
+      "count": 1,
+      "domain": "Social Impact / Human Capital",
+      "first_seen": "2026-07-28",
+      "last_seen": "2026-07-28"
+    },
+    "Triangulene-based Superatomic Graphene": {
+      "count": 1,
+      "domain": "materials science",
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19"
+    },
+    "Turbovec": {
+      "count": 1,
+      "domain": "AI Model Optimization",
+      "first_seen": "2026-08-18",
+      "last_seen": "2026-08-18"
+    },
+    "UI/UX design": {
+      "count": 1,
+      "domain": "Human-Computer Interaction/Design",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28"
+    },
+    "Unified Memory": {
+      "count": 1,
+      "domain": "AI Model Optimization",
+      "first_seen": "2026-07-10",
+      "last_seen": "2026-07-10"
+    },
+    "V2X Technology": {
+      "count": 1,
+      "domain": "Autonomy Stack",
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07"
+    },
+    "Visual AI": {
+      "count": 1,
+      "domain": "AI",
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12"
+    },
+    "Wave Propagation": {
+      "count": 1,
+      "domain": "Physics, RF Engineering",
+      "first_seen": "2026-07-06",
+      "last_seen": "2026-07-06"
+    },
+    "Why R&D Waste Persists Despite Widespread AI Adoption": {
+      "count": 1,
+      "domain": "AI Engineering / R&D Optimization",
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-08-04"
+    },
+    "Wind-Powered Cargo Ships": {
+      "count": 1,
+      "domain": "Logistics/Clean Energy",
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22"
+    },
+    "World Action Models": {
+      "count": 1,
+      "domain": "Robotics",
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02"
+    },
+    "World Models": {
+      "count": 1,
+      "domain": "Robotics",
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02"
+    },
+    "llmfit": {
+      "count": 1,
+      "domain": "AI Engineering/LLM deployment",
+      "first_seen": "2026-08-18",
+      "last_seen": "2026-08-18"
+    },
+    "openpilot": {
+      "count": 1,
+      "domain": "Autonomy Stack",
+      "first_seen": "2026-06-27",
+      "last_seen": "2026-06-27"
+    },
+    "seL4": {
+      "count": 1,
+      "domain": "Operating System Security",
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24"
+    }
+  },
+  "investors": {
+    "(": {
+      "count": 8,
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-18",
+      "pattern_notes": []
+    },
+    ")": {
+      "count": 8,
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-18",
+      "pattern_notes": []
+    },
+    ",": {
+      "count": 12,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-09-16",
+      "pattern_notes": []
+    },
+    "-": {
+      "count": 2,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-18",
+      "pattern_notes": []
+    },
+    "/": {
+      "count": 70,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-25",
+      "pattern_notes": []
+    },
+    "A": {
+      "count": 69,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-25",
+      "pattern_notes": []
+    },
+    "AVP": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "pattern_notes": []
+    },
+    "AWS": {
+      "count": 1,
+      "first_seen": "2026-07-05",
+      "last_seen": "2026-07-05",
+      "pattern_notes": []
+    },
+    "Altimeter Capital": {
+      "count": 1,
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "pattern_notes": []
+    },
+    "Amazon": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "pattern_notes": []
+    },
+    "Andreessen Horowitz": {
+      "count": 1,
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "pattern_notes": []
+    },
+    "Asia United Bank": {
+      "count": 1,
+      "first_seen": "2026-07-10",
+      "last_seen": "2026-07-10",
+      "pattern_notes": []
+    },
+    "Atinum Investment": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "pattern_notes": []
+    },
+    "B": {
+      "count": 1,
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-06-30",
+      "pattern_notes": []
+    },
+    "Bain Capital": {
+      "count": 1,
+      "first_seen": "2026-07-22",
+      "last_seen": "2026-07-22",
+      "pattern_notes": []
+    },
+    "Bessemer Venture Partners": {
+      "count": 1,
+      "first_seen": "2026-07-05",
+      "last_seen": "2026-07-05",
+      "pattern_notes": []
+    },
+    "BlueOrchard": {
+      "count": 1,
+      "first_seen": "2026-07-14",
+      "last_seen": "2026-07-14",
+      "pattern_notes": []
+    },
+    "C": {
+      "count": 10,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-16",
+      "pattern_notes": []
+    },
+    "CATL": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "pattern_notes": []
+    },
+    "Chinese investors (potential)": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "pattern_notes": []
+    },
+    "ClavystBio": {
+      "count": 1,
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-06-29",
+      "pattern_notes": []
+    },
+    "D": {
+      "count": 3,
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-09-18",
+      "pattern_notes": []
+    },
+    "D1 Capital Partners": {
+      "count": 1,
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "pattern_notes": []
+    },
+    "DBS Private Bank": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "pattern_notes": []
+    },
+    "E": {
+      "count": 1,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "pattern_notes": []
+    },
+    "EDBI": {
+      "count": 1,
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-06-29",
+      "pattern_notes": []
+    },
+    "Emergency Equity Management": {
+      "count": 1,
+      "first_seen": "2026-07-05",
+      "last_seen": "2026-07-05",
+      "pattern_notes": []
+    },
+    "F": {
+      "count": 2,
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-09-16",
+      "pattern_notes": []
+    },
+    "Fifth Wall": {
+      "count": 1,
+      "first_seen": "2026-07-22",
+      "last_seen": "2026-07-22",
+      "pattern_notes": []
+    },
+    "G": {
+      "count": 5,
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-09-16",
+      "pattern_notes": []
+    },
+    "GFT Ventures": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "pattern_notes": []
+    },
+    "General Atlantic": {
+      "count": 1,
+      "first_seen": "2026-07-05",
+      "last_seen": "2026-07-05",
+      "pattern_notes": []
+    },
+    "General Catalyst": {
+      "count": 1,
+      "first_seen": "2026-07-14",
+      "last_seen": "2026-07-14",
+      "pattern_notes": []
+    },
+    "Grab": {
+      "count": 1,
+      "first_seen": "2026-07-23",
+      "last_seen": "2026-07-23",
+      "pattern_notes": []
+    },
+    "H": {
+      "count": 3,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-07-17",
+      "pattern_notes": []
+    },
+    "Hyundai": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "pattern_notes": []
+    },
+    "I": {
+      "count": 6,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-07-20",
+      "pattern_notes": []
+    },
+    "Iconiq": {
+      "count": 1,
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "pattern_notes": []
+    },
+    "Insight Partners": {
+      "count": 2,
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "pattern_notes": []
+    },
+    "Khosla": {
+      "count": 1,
+      "first_seen": "2026-07-05",
+      "last_seen": "2026-07-05",
+      "pattern_notes": []
+    },
+    "L": {
+      "count": 1,
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-07-17",
+      "pattern_notes": []
+    },
+    "Lg Technology Ventures": {
+      "count": 1,
+      "first_seen": "2026-07-05",
+      "last_seen": "2026-07-05",
+      "pattern_notes": []
+    },
+    "Lightspeed": {
+      "count": 1,
+      "first_seen": "2026-07-05",
+      "last_seen": "2026-07-05",
+      "pattern_notes": []
+    },
+    "Lightspeed (in talks)": {
+      "count": 1,
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15",
+      "pattern_notes": []
+    },
+    "Lochpine Capital": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "pattern_notes": []
+    },
+    "M": {
+      "count": 4,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-09-16",
+      "pattern_notes": []
+    },
+    "Mayfield": {
+      "count": 1,
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "pattern_notes": []
+    },
+    "Menlo Ventures": {
+      "count": 1,
+      "first_seen": "2026-06-23",
+      "last_seen": "2026-06-23",
+      "pattern_notes": []
+    },
+    "Meta (previous)": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "pattern_notes": []
+    },
+    "Modular": {
+      "count": 1,
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "pattern_notes": []
+    },
+    "N": {
+      "count": 70,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-25",
+      "pattern_notes": []
+    },
+    "O": {
+      "count": 2,
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-07-20",
+      "pattern_notes": []
+    },
+    "OpenAI": {
+      "count": 1,
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "pattern_notes": []
+    },
+    "OpenRouter": {
+      "count": 1,
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "pattern_notes": []
+    },
+    "P": {
+      "count": 3,
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-20",
+      "pattern_notes": []
+    },
+    "Qualcomm": {
+      "count": 1,
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "pattern_notes": []
+    },
+    "R": {
+      "count": 1,
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-03",
+      "pattern_notes": []
+    },
+    "S": {
+      "count": 6,
+      "first_seen": "2026-06-26",
+      "last_seen": "2026-07-17",
+      "pattern_notes": []
+    },
+    "SBI": {
+      "count": 1,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "pattern_notes": []
+    },
+    "SBI Investment": {
+      "count": 1,
+      "first_seen": "2026-07-05",
+      "last_seen": "2026-07-05",
+      "pattern_notes": []
+    },
+    "Sequoia": {
+      "count": 1,
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "pattern_notes": []
+    },
+    "SoftBank": {
+      "count": 1,
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "pattern_notes": []
+    },
+    "SoftBank (exited)": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "pattern_notes": []
+    },
+    "SpaceX": {
+      "count": 1,
+      "first_seen": "2026-08-14",
+      "last_seen": "2026-08-14",
+      "pattern_notes": []
+    },
+    "Startup Bangladesh": {
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "pattern_notes": []
+    },
+    "Stripe": {
+      "count": 1,
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "pattern_notes": []
+    },
+    "T": {
+      "count": 3,
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-09-16",
+      "pattern_notes": []
+    },
+    "U": {
+      "count": 1,
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-07-17",
+      "pattern_notes": []
+    },
+    "Uber": {
+      "count": 1,
+      "first_seen": "2026-07-22",
+      "last_seen": "2026-07-22",
+      "pattern_notes": []
+    },
+    "V": {
+      "count": 5,
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-09-10",
+      "pattern_notes": []
+    },
+    "VentureTECH": {
+      "count": 3,
+      "first_seen": "2026-08-14",
+      "last_seen": "2026-08-14",
+      "pattern_notes": []
+    },
+    "Vynn Capital": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "pattern_notes": []
+    },
+    "W": {
+      "count": 1,
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-07-17",
+      "pattern_notes": []
+    },
+    "Xora": {
+      "count": 1,
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "pattern_notes": []
+    },
+    "Y": {
+      "count": 1,
+      "first_seen": "2026-08-10",
+      "last_seen": "2026-08-10",
+      "pattern_notes": []
+    },
+    "Z": {
+      "count": 1,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "pattern_notes": []
+    },
+    "ZIG Ventures": {
+      "count": 1,
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-06-29",
+      "pattern_notes": []
+    },
+    "_": {
+      "count": 4,
+      "first_seen": "2026-07-07",
+      "last_seen": "2026-07-07",
+      "pattern_notes": []
+    },
+    "a": {
+      "count": 69,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-18",
+      "pattern_notes": []
+    },
+    "a16z": {
+      "count": 1,
+      "first_seen": "2026-07-22",
+      "last_seen": "2026-07-22",
+      "pattern_notes": []
+    },
+    "b": {
+      "count": 20,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-09-18",
+      "pattern_notes": []
+    },
+    "c": {
+      "count": 52,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-18",
+      "pattern_notes": []
+    },
+    "d": {
+      "count": 35,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-16",
+      "pattern_notes": []
+    },
+    "e": {
+      "count": 104,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-18",
+      "pattern_notes": []
+    },
+    "f": {
+      "count": 27,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-09-18",
+      "pattern_notes": []
+    },
+    "g": {
+      "count": 7,
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-31",
+      "pattern_notes": []
+    },
+    "h": {
+      "count": 10,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-16",
+      "pattern_notes": []
+    },
+    "i": {
+      "count": 86,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-18",
+      "pattern_notes": []
+    },
+    "k": {
+      "count": 8,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-18",
+      "pattern_notes": []
+    },
+    "l": {
+      "count": 42,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-18",
+      "pattern_notes": []
+    },
+    "m": {
+      "count": 8,
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-09-18",
+      "pattern_notes": []
+    },
+    "n": {
+      "count": 86,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-18",
+      "pattern_notes": []
+    },
+    "o": {
+      "count": 75,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-16",
+      "pattern_notes": []
+    },
+    "p": {
+      "count": 54,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-09-16",
+      "pattern_notes": []
+    },
+    "q": {
+      "count": 2,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "pattern_notes": []
+    },
+    "r": {
+      "count": 49,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-18",
+      "pattern_notes": []
+    },
+    "s": {
+      "count": 42,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-18",
+      "pattern_notes": []
+    },
+    "t": {
+      "count": 69,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-18",
+      "pattern_notes": []
+    },
+    "u": {
+      "count": 20,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-16",
+      "pattern_notes": []
+    },
+    "v": {
+      "count": 7,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-09-18",
+      "pattern_notes": []
+    },
+    "w": {
+      "count": 3,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-26",
+      "pattern_notes": []
+    },
+    "y": {
+      "count": 2,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-09-16",
+      "pattern_notes": []
+    },
+    "ô": {
+      "count": 2,
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-31",
+      "pattern_notes": []
+    },
+    "õ": {
+      "count": 2,
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-31",
+      "pattern_notes": []
+    }
+  },
+  "tech": {
+    "ADAS": {
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "notes": []
+    },
+    "AI": {
+      "count": 1,
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16",
+      "notes": []
+    },
+    "AI Agent Control": {
+      "count": 34,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-09-25",
+      "notes": []
+    },
+    "AI Agentic Coding": {
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "notes": []
+    },
+    "AI Agents": {
+      "count": 76,
+      "first_seen": "2026-06-20",
+      "last_seen": "2026-09-28",
+      "notes": []
+    },
+    "AI Cost Management": {
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "notes": []
+    },
+    "AI Education": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "notes": []
+    },
+    "AI Engineering": {
+      "count": 1,
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "notes": []
+    },
+    "AI Gateway": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "notes": []
+    },
+    "AI Gateway Security": {
+      "count": 1,
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "notes": []
+    },
+    "AI Gateways": {
+      "count": 1,
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "notes": []
+    },
+    "AI Inference": {
+      "count": 2,
+      "first_seen": "2026-07-08",
+      "last_seen": "2026-09-16",
+      "notes": []
+    },
+    "AI Infrastructure": {
+      "count": 1,
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "notes": []
+    },
+    "AI Model Benchmarking": {
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "notes": []
+    },
+    "AI Model Optimization": {
+      "count": 14,
+      "first_seen": "2026-07-10",
+      "last_seen": "2026-09-24",
+      "notes": []
+    },
+    "AI Payments": {
+      "count": 1,
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "notes": []
+    },
+    "AI Programming Languages": {
+      "count": 1,
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "notes": []
+    },
+    "AI Reasoning": {
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "notes": []
+    },
+    "AI Safety": {
+      "count": 1,
+      "first_seen": "2026-07-14",
+      "last_seen": "2026-07-14",
+      "notes": []
+    },
+    "AI Security": {
+      "count": 1,
+      "first_seen": "2026-07-21",
+      "last_seen": "2026-07-21",
+      "notes": []
+    },
+    "AI Video Generation": {
+      "count": 1,
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "notes": []
+    },
+    "AI Workflow": {
+      "count": 56,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-09-25",
+      "notes": []
+    },
+    "AI agent internet access": {
+      "count": 2,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-24",
+      "notes": []
+    },
+    "AI agentic engineering": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "AI agents": {
+      "count": 2,
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-31",
+      "notes": []
+    },
+    "AI coding agent": {
+      "count": 1,
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15",
+      "notes": []
+    },
+    "AI engineering": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "AI marketplace": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "AI models": {
+      "count": 1,
+      "first_seen": "2026-06-27",
+      "last_seen": "2026-06-27",
+      "notes": []
+    },
+    "AI paradox": {
+      "count": 1,
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "notes": []
+    },
+    "AI reasoning": {
+      "count": 1,
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "notes": []
+    },
+    "API": {
+      "count": 1,
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16",
+      "notes": []
+    },
+    "API Gateway": {
+      "count": 1,
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15",
+      "notes": []
+    },
+    "Active Learning": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Agent Multiplexer": {
+      "count": 1,
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-06-29",
+      "notes": []
+    },
+    "Agent harness": {
+      "count": 1,
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-06-29",
+      "notes": []
+    },
+    "Agent swarms": {
+      "count": 1,
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "notes": []
+    },
+    "Agentic Orchestration": {
+      "count": 1,
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "notes": []
+    },
+    "Agentic Systems": {
+      "count": 1,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "notes": []
+    },
+    "Agentic Workflow": {
+      "count": 1,
+      "first_seen": "2026-07-04",
+      "last_seen": "2026-07-04",
+      "notes": []
+    },
+    "Agentic compute stack": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Auto-fallback": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "notes": []
+    },
+    "Autonomous Driving": {
+      "count": 1,
+      "first_seen": "2026-06-20",
+      "last_seen": "2026-06-20",
+      "notes": []
+    },
+    "Autonomous Driving Systems": {
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "notes": []
+    },
+    "BPE tokenizer": {
+      "count": 1,
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28",
+      "notes": []
+    },
+    "Battery Tech": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "notes": []
+    },
+    "BigQuery ML": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Block-diffusion language models": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "notes": []
+    },
+    "Blockchain": {
+      "count": 1,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "notes": []
+    },
+    "Blockchain Timestamping": {
+      "count": 1,
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "notes": []
+    },
+    "Bluetooth mesh": {
+      "count": 1,
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "notes": []
+    },
+    "Bot Blocking": {
+      "count": 1,
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "notes": []
+    },
+    "C++ libraries": {
+      "count": 1,
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "notes": []
+    },
+    "C/CUDA": {
+      "count": 1,
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28",
+      "notes": []
+    },
+    "CAD/CAE/CAM": {
+      "count": 1,
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "notes": []
+    },
+    "Causality Theory": {
+      "count": 1,
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-12",
+      "notes": []
+    },
+    "Chatbots": {
+      "count": 1,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22",
+      "notes": []
+    },
+    "Code Generation/Review": {
+      "count": 1,
+      "first_seen": "2026-07-04",
+      "last_seen": "2026-07-04",
+      "notes": []
+    },
+    "Code Review AI": {
+      "count": 1,
+      "first_seen": "2026-07-28",
+      "last_seen": "2026-07-28",
+      "notes": []
+    },
+    "Code Security AI": {
+      "count": 1,
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-07-17",
+      "notes": []
+    },
+    "Combinatorial Optimization": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "notes": []
+    },
+    "Composable Software": {
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "notes": []
+    },
+    "Computer Vision": {
+      "count": 2,
+      "first_seen": "2026-07-21",
+      "last_seen": "2026-08-05",
+      "notes": []
+    },
+    "Conformal Prediction": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Content Commerce": {
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "notes": []
+    },
+    "Context Engineering": {
+      "count": 1,
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "notes": []
+    },
+    "Continual Learning": {
+      "count": 1,
+      "first_seen": "2026-09-07",
+      "last_seen": "2026-09-07",
+      "notes": []
+    },
+    "Custom trained AI enhancement model": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "notes": []
+    },
+    "Cybersecurity AI": {
+      "count": 1,
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "notes": []
+    },
+    "DMCA law": {
+      "count": 1,
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "notes": []
+    },
+    "Data aggregation": {
+      "count": 1,
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16",
+      "notes": []
+    },
+    "Data scraping": {
+      "count": 1,
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "notes": []
+    },
+    "Data-Oriented Design": {
+      "count": 1,
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "notes": []
+    },
+    "Database Tools": {
+      "count": 1,
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "notes": []
+    },
+    "Decentralized Markets": {
+      "count": 1,
+      "first_seen": "2026-07-08",
+      "last_seen": "2026-07-08",
+      "notes": []
+    },
+    "Decentralized messaging": {
+      "count": 1,
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "notes": []
+    },
+    "Diffusion Models": {
+      "count": 4,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-09-09",
+      "notes": []
+    },
+    "Digital Health": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "notes": []
+    },
+    "Distillation": {
+      "count": 1,
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "notes": []
+    },
+    "Distributed Systems": {
+      "count": 1,
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-08-08",
+      "notes": []
+    },
+    "Document processing for LLM": {
+      "count": 1,
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-06-29",
+      "notes": []
+    },
+    "E-Paper": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Edge AI": {
+      "count": 1,
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "notes": []
+    },
+    "Electric Motorcycles": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "notes": []
+    },
+    "Embedded Insurance": {
+      "count": 1,
+      "first_seen": "2026-07-14",
+      "last_seen": "2026-07-14",
+      "notes": []
+    },
+    "Embedding Models": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "notes": []
+    },
+    "Energy Analytics": {
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "notes": []
+    },
+    "Fintech": {
+      "count": 1,
+      "first_seen": "2026-07-14",
+      "last_seen": "2026-07-14",
+      "notes": []
+    },
+    "Fintech IPO": {
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "notes": []
+    },
+    "Fintech applications": {
+      "count": 1,
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "notes": []
+    },
+    "Fintech engineering patterns": {
+      "count": 1,
+      "first_seen": "2026-06-27",
+      "last_seen": "2026-06-27",
+      "notes": []
+    },
+    "FlashAttention": {
+      "count": 1,
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28",
+      "notes": []
+    },
+    "Flow Matching Models": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Frontier Safeguards": {
+      "count": 1,
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "notes": []
+    },
+    "GGUFs": {
+      "count": 1,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22",
+      "notes": []
+    },
+    "GPU Computing": {
+      "count": 1,
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-06-29",
+      "notes": []
+    },
+    "GPU Orchestration": {
+      "count": 1,
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "notes": []
+    },
+    "GPU financing": {
+      "count": 1,
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "notes": []
+    },
+    "Generative AI": {
+      "count": 5,
+      "first_seen": "2026-06-20",
+      "last_seen": "2026-09-28",
+      "notes": []
+    },
+    "Generative BI": {
+      "count": 1,
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "notes": []
+    },
+    "Generative Modeling": {
+      "count": 52,
+      "first_seen": "2026-06-23",
+      "last_seen": "2026-09-25",
+      "notes": []
+    },
+    "Generative Models": {
+      "count": 1,
+      "first_seen": "2026-06-26",
+      "last_seen": "2026-06-26",
+      "notes": []
+    },
+    "Generative Reasoning Re-rankers": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "notes": []
+    },
+    "Generative UI": {
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "notes": []
+    },
+    "GitHub Security": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Grid Storage": {
+      "count": 1,
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "notes": []
+    },
+    "High-Bandwidth Memory (HBM)": {
+      "count": 1,
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "notes": []
+    },
+    "Humanoids": {
+      "count": 1,
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "notes": []
+    },
+    "IDE integration": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Image Inpainting": {
+      "count": 1,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22",
+      "notes": []
+    },
+    "Industrial AI": {
+      "count": 1,
+      "first_seen": "2026-07-22",
+      "last_seen": "2026-07-22",
+      "notes": []
+    },
+    "Intelligent Power Management Chips": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "notes": []
+    },
+    "Knowledge Conflict Resolution for LLM": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Knowledge Distillation": {
+      "count": 1,
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-06-29",
+      "notes": []
+    },
+    "Knowledge Graphs": {
+      "count": 2,
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-08-11",
+      "notes": []
+    },
+    "LLM": {
+      "count": 71,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-28",
+      "notes": []
+    },
+    "LLM (Codex)": {
+      "count": 1,
+      "first_seen": "2026-07-04",
+      "last_seen": "2026-07-04",
+      "notes": []
+    },
+    "LLM Biases": {
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "notes": []
+    },
+    "LLM Fine-tuning": {
+      "count": 1,
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "notes": []
+    },
+    "LLM Inference Optimization": {
+      "count": 1,
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "notes": []
+    },
+    "LLM Integration": {
+      "count": 1,
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "notes": []
+    },
+    "LLM KV cache trimming": {
+      "count": 1,
+      "first_seen": "2026-06-27",
+      "last_seen": "2026-06-27",
+      "notes": []
+    },
+    "LLM Memory": {
+      "count": 1,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22",
+      "notes": []
+    },
+    "LLM Observability": {
+      "count": 1,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22",
+      "notes": []
+    },
+    "LLM inference optimization": {
+      "count": 1,
+      "first_seen": "2026-06-27",
+      "last_seen": "2026-06-27",
+      "notes": []
+    },
+    "LLM routers": {
+      "count": 1,
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "notes": []
+    },
+    "Large Language Model (LLM) Training Framework": {
+      "count": 1,
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "notes": []
+    },
+    "Linux Pressure Stall Information (PSI)": {
+      "count": 1,
+      "first_seen": "2026-06-27",
+      "last_seen": "2026-06-27",
+      "notes": []
+    },
+    "Local AI Inference": {
+      "count": 2,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-08-19",
+      "notes": []
+    },
+    "Local processing": {
+      "count": 1,
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16",
+      "notes": []
+    },
+    "Machine Learning": {
+      "count": 1,
+      "first_seen": "2026-07-16",
+      "last_seen": "2026-07-16",
+      "notes": []
+    },
+    "Machine Learning Frameworks": {
+      "count": 1,
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "notes": []
+    },
+    "Masked Latent Fields": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Mechanistic Interpretability": {
+      "count": 1,
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-12",
+      "notes": []
+    },
+    "Memory Encryption": {
+      "count": 1,
+      "first_seen": "2026-06-20",
+      "last_seen": "2026-06-20",
+      "notes": []
+    },
+    "Missing Not At Random (MNAR) Mechanisms": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Mixture-of-Experts transformer": {
+      "count": 1,
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15",
+      "notes": []
+    },
+    "MoE": {
+      "count": 1,
+      "first_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "notes": []
+    },
+    "Model Distillation": {
+      "count": 1,
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "notes": []
+    },
+    "Model Marketplaces": {
+      "count": 1,
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "notes": []
+    },
+    "Model Optimization": {
+      "count": 1,
+      "first_seen": "2026-07-14",
+      "last_seen": "2026-07-14",
+      "notes": []
+    },
+    "Model Quantization": {
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "notes": []
+    },
+    "Multi-Agent Systems": {
+      "count": 1,
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "notes": []
+    },
+    "Multimodal APIs": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "notes": []
+    },
+    "Multimodal capabilities": {
+      "count": 1,
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15",
+      "notes": []
+    },
+    "Network Effects": {
+      "count": 1,
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "notes": []
+    },
+    "Networking Stack": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Neural Certificate Pricing": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "notes": []
+    },
+    "Nostr protocol": {
+      "count": 1,
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "notes": []
+    },
+    "OCR": {
+      "count": 2,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-09-05",
+      "notes": []
+    },
+    "OS Security": {
+      "count": 1,
+      "first_seen": "2026-07-28",
+      "last_seen": "2026-07-28",
+      "notes": []
+    },
+    "Off-Policy Evaluation": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "On-device AI": {
+      "count": 2,
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-18",
+      "notes": []
+    },
+    "On-device STT": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "notes": []
+    },
+    "Online Feedback-Driven Search": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "notes": []
+    },
+    "Open Foundation Models": {
+      "count": 1,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22",
+      "notes": []
+    },
+    "Open Source Driver": {
+      "count": 1,
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "notes": []
+    },
+    "Open-source Customer Support": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Open-source Hardware": {
+      "count": 1,
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "notes": []
+    },
+    "Open-source Project Management": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Open-source intelligence": {
+      "count": 1,
+      "first_seen": "2026-06-20",
+      "last_seen": "2026-06-20",
+      "notes": []
+    },
+    "Open-source models": {
+      "count": 1,
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-06-29",
+      "notes": []
+    },
+    "Open-weights AI": {
+      "count": 1,
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "notes": []
+    },
+    "Open-weights models": {
+      "count": 1,
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "notes": []
+    },
+    "OpenAI Realtime-compatible WebSocket API": {
+      "count": 1,
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "notes": []
+    },
+    "Operating Systems": {
+      "count": 1,
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "notes": []
+    },
+    "Optimal Transport": {
+      "count": 1,
+      "first_seen": "2026-07-05",
+      "last_seen": "2026-07-05",
+      "notes": []
+    },
+    "Pattern matching (ELIZA)": {
+      "count": 1,
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15",
+      "notes": []
+    },
+    "Peer-to-peer": {
+      "count": 1,
+      "first_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "notes": []
+    },
+    "Plugin Ecosystem": {
+      "count": 1,
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-12",
+      "notes": []
+    },
+    "Plugins": {
+      "count": 1,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22",
+      "notes": []
+    },
+    "Post-Quantum Cryptography": {
+      "count": 1,
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-07-17",
+      "notes": []
+    },
+    "Prediction Markets": {
+      "count": 1,
+      "first_seen": "2026-06-23",
+      "last_seen": "2026-06-23",
+      "notes": []
+    },
+    "Programming Languages": {
+      "count": 1,
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "notes": []
+    },
+    "Prompt Engineering": {
+      "count": 2,
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-09-05",
+      "notes": []
+    },
+    "Prompt Injection Defense": {
+      "count": 1,
+      "first_seen": "2026-07-16",
+      "last_seen": "2026-07-16",
+      "notes": []
+    },
+    "Proof Systems": {
+      "count": 1,
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "notes": []
+    },
+    "Proprietary AI": {
+      "count": 1,
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "notes": []
+    },
+    "Quant Trading Strategies": {
+      "count": 1,
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "notes": []
+    },
+    "Quantization": {
+      "count": 2,
+      "first_seen": "2026-08-14",
+      "last_seen": "2026-08-18",
+      "notes": []
+    },
+    "Quantum Computing": {
+      "count": 1,
+      "first_seen": "2026-09-07",
+      "last_seen": "2026-09-07",
+      "notes": []
+    },
+    "Quantum Kernel Vision Models": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "RAG": {
+      "count": 3,
+      "first_seen": "2026-07-13",
+      "last_seen": "2026-08-14",
+      "notes": []
+    },
+    "RF Engineering": {
+      "count": 1,
+      "first_seen": "2026-07-06",
+      "last_seen": "2026-07-06",
+      "notes": []
+    },
+    "Recursive Language Models": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Regulatory compliance solutions": {
+      "count": 1,
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "notes": []
+    },
+    "Reinforcement Learning": {
+      "count": 4,
+      "first_seen": "2026-06-26",
+      "last_seen": "2026-09-02",
+      "notes": []
+    },
+    "Retrieval Augmented Generation (RAG)": {
+      "count": 1,
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "notes": []
+    },
+    "Ring all-reduce": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Robotic Parking": {
+      "count": 1,
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "notes": []
+    },
+    "Robotics": {
+      "count": 3,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-08-25",
+      "notes": []
+    },
+    "Robotics Control": {
+      "count": 1,
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-07-17",
+      "notes": []
+    },
+    "Robotics operating system": {
+      "count": 1,
+      "first_seen": "2026-06-27",
+      "last_seen": "2026-06-27",
+      "notes": []
+    },
+    "Robust Q-learning": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Rule Violation Score": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Runtime Security": {
+      "count": 1,
+      "first_seen": "2026-07-08",
+      "last_seen": "2026-07-08",
+      "notes": []
+    },
+    "Rust": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "SQL Client": {
+      "count": 1,
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "notes": []
+    },
+    "STT": {
+      "count": 1,
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "notes": []
+    },
+    "Security Vulnerabilities": {
+      "count": 1,
+      "first_seen": "2026-07-04",
+      "last_seen": "2026-07-04",
+      "notes": []
+    },
+    "Self-hostable platforms": {
+      "count": 1,
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "notes": []
+    },
+    "Self-hosted Cloud Infrastructure": {
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "notes": []
+    },
+    "Self-improving models": {
+      "count": 1,
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-06-29",
+      "notes": []
+    },
+    "Semiconductor": {
+      "count": 2,
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
+      "notes": []
+    },
+    "Sensor stack": {
+      "count": 1,
+      "first_seen": "2026-07-06",
+      "last_seen": "2026-07-06",
+      "notes": []
+    },
+    "Sequentially-Controlled Interactive Multi-Particle Flow-Maps": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "notes": []
+    },
+    "Service Mesh": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Settlement Intelligence": {
+      "count": 1,
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-06-29",
+      "notes": []
+    },
+    "Sim2real": {
+      "count": 1,
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "notes": []
+    },
+    "Smart Contracts": {
+      "count": 1,
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "notes": []
+    },
+    "Sodium-ion Batteries": {
+      "count": 1,
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "notes": []
+    },
+    "Speculative decoding": {
+      "count": 1,
+      "first_seen": "2026-06-27",
+      "last_seen": "2026-06-27",
+      "notes": []
+    },
+    "Speech-to-Text": {
+      "count": 1,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "notes": []
+    },
+    "Startup Ranking": {
+      "count": 1,
+      "first_seen": "2026-07-14",
+      "last_seen": "2026-07-14",
+      "notes": []
+    },
+    "Steganography": {
+      "count": 2,
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-08-16",
+      "notes": []
+    },
+    "Structured Outputs": {
+      "count": 1,
+      "first_seen": "2026-07-22",
+      "last_seen": "2026-07-22",
+      "notes": []
+    },
+    "System Prompts": {
+      "count": 1,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22",
+      "notes": []
+    },
+    "TTS": {
+      "count": 1,
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "notes": []
+    },
+    "Terminal-based AI": {
+      "count": 1,
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15",
+      "notes": []
+    },
+    "Text Generation": {
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "notes": []
+    },
+    "Text-to-SQL": {
+      "count": 1,
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "notes": []
+    },
+    "Text-to-Speech": {
+      "count": 2,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-16",
+      "notes": []
+    },
+    "Text-to-Speech (TTS)": {
+      "count": 1,
+      "first_seen": "2026-07-07",
+      "last_seen": "2026-07-07",
+      "notes": []
+    },
+    "TimesFM 2.5": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Token Optimization": {
+      "count": 1,
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-12",
+      "notes": []
+    },
+    "Token Relay Market": {
+      "count": 1,
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "notes": []
+    },
+    "Token compression": {
+      "count": 2,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-07-02",
+      "notes": []
+    },
+    "Tokenization": {
+      "count": 1,
+      "first_seen": "2026-07-13",
+      "last_seen": "2026-07-13",
+      "notes": []
+    },
+    "Tool Calling": {
+      "count": 1,
+      "first_seen": "2026-08-10",
+      "last_seen": "2026-08-10",
+      "notes": []
+    },
+    "Traveltech Infrastructure": {
+      "count": 1,
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "notes": []
+    },
+    "UPI architecture": {
+      "count": 1,
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "notes": []
+    },
+    "UX Sound Design": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Unified AI Interface": {
+      "count": 1,
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "notes": []
+    },
+    "V2X Technology": {
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "notes": []
+    },
+    "VAD": {
+      "count": 1,
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "notes": []
+    },
+    "VLM": {
+      "count": 1,
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "notes": []
+    },
+    "VPN": {
+      "count": 1,
+      "first_seen": "2026-07-28",
+      "last_seen": "2026-07-28",
+      "notes": []
+    },
+    "Vector Database": {
+      "count": 1,
+      "first_seen": "2026-07-07",
+      "last_seen": "2026-07-07",
+      "notes": []
+    },
+    "Vector Search": {
+      "count": 1,
+      "first_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "notes": []
+    },
+    "Vision Models": {
+      "count": 1,
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "notes": []
+    },
+    "Vision-Language Models (VLMs)": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Vision-Language-Action (VLA) models": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Voice AI": {
+      "count": 1,
+      "first_seen": "2026-07-21",
+      "last_seen": "2026-07-21",
+      "notes": []
+    },
+    "Voice Cloning": {
+      "count": 1,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "notes": []
+    },
+    "Wearable Devices": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "notes": []
+    },
+    "Web Crawler": {
+      "count": 1,
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "notes": []
+    },
+    "WhatsApp Web API": {
+      "count": 1,
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "notes": []
+    },
+    "WireGuard VPN": {
+      "count": 1,
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "notes": []
+    },
+    "Wireless Sensing": {
+      "count": 1,
+      "first_seen": "2026-07-06",
+      "last_seen": "2026-07-06",
+      "notes": []
+    },
+    "Workflow Orchestration": {
+      "count": 1,
+      "first_seen": "2026-07-13",
+      "last_seen": "2026-07-13",
+      "notes": []
+    },
+    "ZFS": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "local-first OS": {
+      "count": 1,
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "notes": []
+    },
+    "prediction markets": {
+      "count": 1,
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "notes": []
+    },
+    "quantum error correction": {
+      "count": 1,
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "notes": []
+    },
+    "reverse centaurs": {
+      "count": 1,
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "notes": []
+    }
+  },
+  "themes": {
+    "AI Agent Control": {
+      "count": 1,
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15",
+      "notes": []
+    },
+    "AI Agent Security": {
+      "count": 1,
+      "first_seen": "2026-07-08",
+      "last_seen": "2026-07-08",
+      "notes": []
+    },
+    "AI Agent safety and control": {
+      "count": 1,
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "notes": []
+    },
+    "AI Agentic Capabilities & Security": {
+      "count": 1,
+      "first_seen": "2026-07-21",
+      "last_seen": "2026-07-21",
+      "notes": []
+    },
+    "AI Agentic Infrastructure": {
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "notes": []
+    },
+    "AI Agents": {
+      "count": 5,
+      "first_seen": "2026-07-04",
+      "last_seen": "2026-09-15",
+      "notes": []
+    },
+    "AI Agents in Finance": {
+      "count": 1,
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "notes": []
+    },
+    "AI Application Layer": {
+      "count": 88,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-28",
+      "notes": []
+    },
+    "AI Benchmarking": {
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "notes": []
+    },
+    "AI Confidence Gap": {
+      "count": 63,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-28",
+      "notes": []
+    },
+    "AI Cost Optimization": {
+      "count": 2,
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-08-07",
+      "notes": []
+    },
+    "AI Cost-Efficiency": {
+      "count": 1,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "notes": []
+    },
+    "AI Education": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "notes": []
+    },
+    "AI Engineering": {
+      "count": 74,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-25",
+      "notes": []
+    },
+    "AI Ethics": {
+      "count": 1,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "notes": []
+    },
+    "AI Governance": {
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "notes": []
+    },
+    "AI Inference Optimization": {
+      "count": 1,
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "notes": []
+    },
+    "AI Infrastructure": {
+      "count": 1,
+      "first_seen": "2026-07-08",
+      "last_seen": "2026-07-08",
+      "notes": []
+    },
+    "AI Infrastructure Finance": {
+      "count": 1,
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "notes": []
+    },
+    "AI Moats": {
+      "count": 1,
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "notes": []
+    },
+    "AI Model Optimization": {
+      "count": 2,
+      "first_seen": "2026-09-07",
+      "last_seen": "2026-09-24",
+      "notes": []
+    },
+    "AI Model Optimization & Cost Efficiency": {
+      "count": 1,
+      "first_seen": "2026-07-21",
+      "last_seen": "2026-07-21",
+      "notes": []
+    },
+    "AI Operating Model": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "AI Payments": {
+      "count": 1,
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "notes": []
+    },
+    "AI Reasoning": {
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "notes": []
+    },
+    "AI Risk Management": {
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "notes": []
+    },
+    "AI Security": {
+      "count": 1,
+      "first_seen": "2026-07-04",
+      "last_seen": "2026-07-04",
+      "notes": []
+    },
+    "AI Talent Market": {
+      "count": 1,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "notes": []
+    },
+    "AI Workflow": {
+      "count": 7,
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-09-24",
+      "notes": []
+    },
+    "AI adoption in Southeast Asia (aviation)": {
+      "count": 1,
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "notes": []
+    },
+    "AI for Scientific Discovery": {
+      "count": 1,
+      "first_seen": "2026-07-21",
+      "last_seen": "2026-07-21",
+      "notes": []
+    },
+    "AI governance": {
+      "count": 1,
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "notes": []
+    },
+    "AI in developer workflow": {
+      "count": 1,
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "notes": []
+    },
+    "Advanced Computing / Semiconductors": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "notes": []
+    },
+    "Advanced Materials": {
+      "count": 1,
+      "first_seen": "2026-07-05",
+      "last_seen": "2026-07-05",
+      "notes": []
+    },
+    "Agent economics": {
+      "count": 1,
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "notes": []
+    },
+    "Agentic Infrastructure": {
+      "count": 82,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-28",
+      "notes": []
+    },
+    "Agritech": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Autonomy Stack": {
+      "count": 8,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-09-09",
+      "notes": []
+    },
+    "Biotech": {
+      "count": 1,
+      "first_seen": "2026-06-27",
+      "last_seen": "2026-06-27",
+      "notes": []
+    },
+    "Biotech AI": {
+      "count": 1,
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-12",
+      "notes": []
+    },
+    "Blockchain": {
+      "count": 1,
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "notes": []
+    },
+    "Capital Allocation": {
+      "count": 7,
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-09-24",
+      "notes": []
+    },
+    "Capital Allocation / VC Thesis / Moats": {
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "notes": []
+    },
+    "Capital Allocation in SEA": {
+      "count": 1,
+      "first_seen": "2026-07-08",
+      "last_seen": "2026-07-08",
+      "notes": []
+    },
+    "Capital Structural Dependency": {
+      "count": 69,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-25",
+      "notes": []
+    },
+    "Capital allocation": {
+      "count": 1,
+      "first_seen": "2026-07-06",
+      "last_seen": "2026-07-06",
+      "notes": []
+    },
+    "Capital allocation / VC thesis": {
+      "count": 1,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "notes": []
+    },
+    "Climate Change": {
+      "count": 1,
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "notes": []
+    },
+    "Community-driven Development": {
+      "count": 1,
+      "first_seen": "2026-06-20",
+      "last_seen": "2026-06-20",
+      "notes": []
+    },
+    "Computer Vision": {
+      "count": 1,
+      "first_seen": "2026-07-21",
+      "last_seen": "2026-07-21",
+      "notes": []
+    },
+    "Core Software Libraries": {
+      "count": 1,
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "notes": []
+    },
+    "Cost Optimization": {
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "notes": []
+    },
+    "Critical Infrastructure Security": {
+      "count": 1,
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "notes": []
+    },
+    "Cross-border E-commerce Logistics": {
+      "count": 1,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "notes": []
+    },
+    "Cybersecurity": {
+      "count": 2,
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-08-23",
+      "notes": []
+    },
+    "Cybersecurity for SMEs": {
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "notes": []
+    },
+    "Data Access / Scraping": {
+      "count": 1,
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "notes": []
+    },
+    "Data Ethics": {
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "notes": []
+    },
+    "Data Moat": {
+      "count": 1,
+      "first_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "notes": []
+    },
+    "Data Privacy": {
+      "count": 1,
+      "first_seen": "2026-07-13",
+      "last_seen": "2026-07-13",
+      "notes": []
+    },
+    "Data Privacy & Security": {
+      "count": 1,
+      "first_seen": "2026-07-28",
+      "last_seen": "2026-07-28",
+      "notes": []
+    },
+    "Decentralized AI Compute": {
+      "count": 1,
+      "first_seen": "2026-07-08",
+      "last_seen": "2026-07-08",
+      "notes": []
+    },
+    "Decentralized Networking": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Deep Tech (Security/Defense)": {
+      "count": 1,
+      "first_seen": "2026-06-20",
+      "last_seen": "2026-06-20",
+      "notes": []
+    },
+    "Deep Tech Biology": {
+      "count": 1,
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "notes": []
+    },
+    "Deep Tech Investment": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "notes": []
+    },
+    "Deeptech Playbook SEA": {
+      "count": 1,
+      "first_seen": "2026-07-23",
+      "last_seen": "2026-07-23",
+      "notes": []
+    },
+    "Defensibility": {
+      "count": 5,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-09-11",
+      "notes": []
+    },
+    "Democratization of Technology": {
+      "count": 1,
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "notes": []
+    },
+    "Digital Sovereignty": {
+      "count": 1,
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-06-29",
+      "notes": []
+    },
+    "Distribution": {
+      "count": 4,
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-09-24",
+      "notes": []
+    },
+    "ESG/Sustainability in Logistics": {
+      "count": 1,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22",
+      "notes": []
+    },
+    "EV & Autonomous": {
+      "count": 1,
+      "first_seen": "2026-06-26",
+      "last_seen": "2026-06-26",
+      "notes": []
+    },
+    "EV & Autonomy": {
+      "count": 1,
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28",
+      "notes": []
+    },
+    "EV Adoption": {
+      "count": 1,
+      "first_seen": "2026-07-08",
+      "last_seen": "2026-07-08",
+      "notes": []
+    },
+    "EV Ecosystem SEA": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "notes": []
+    },
+    "EV Infrastructure": {
+      "count": 1,
+      "first_seen": "2026-07-23",
+      "last_seen": "2026-07-23",
+      "notes": []
+    },
+    "EV mobility": {
+      "count": 1,
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "notes": []
+    },
+    "EV/Mobility": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "notes": []
+    },
+    "Economic Affordability": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Energy & Battery": {
+      "count": 1,
+      "first_seen": "2026-06-26",
+      "last_seen": "2026-06-26",
+      "notes": []
+    },
+    "Energy & Grid": {
+      "count": 1,
+      "first_seen": "2026-06-23",
+      "last_seen": "2026-06-23",
+      "notes": []
+    },
+    "Energy & Pin": {
+      "count": 1,
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "notes": []
+    },
+    "Energy Grid": {
+      "count": 1,
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-03",
+      "notes": []
+    },
+    "Energy Storage": {
+      "count": 2,
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-09-19",
+      "notes": []
+    },
+    "Energy Storage / Quantum Tech": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "notes": []
+    },
+    "Enterprise AI Adoption Challenges": {
+      "count": 1,
+      "first_seen": "2026-07-08",
+      "last_seen": "2026-07-08",
+      "notes": []
+    },
+    "Ethics in AI": {
+      "count": 1,
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "notes": []
+    },
+    "Fintech": {
+      "count": 1,
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-08-01",
+      "notes": []
+    },
+    "Fintech & Payment Systems": {
+      "count": 1,
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "notes": []
+    },
+    "Fintech Engineering": {
+      "count": 1,
+      "first_seen": "2026-06-27",
+      "last_seen": "2026-06-27",
+      "notes": []
+    },
+    "Founder Ecosystem": {
+      "count": 1,
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "notes": []
+    },
+    "Founder Resilience": {
+      "count": 1,
+      "first_seen": "2026-06-20",
+      "last_seen": "2026-06-20",
+      "notes": []
+    },
+    "Founder ecosystem": {
+      "count": 1,
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-08-01",
+      "notes": []
+    },
+    "Fraud Detection & Prevention": {
+      "count": 1,
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "notes": []
+    },
+    "Generative BI": {
+      "count": 1,
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "notes": []
+    },
+    "Generative Modeling": {
+      "count": 27,
+      "first_seen": "2026-06-26",
+      "last_seen": "2026-09-24",
+      "notes": []
+    },
+    "Generative modeling": {
+      "count": 1,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "notes": []
+    },
+    "Geopolitical/Sovereignty": {
+      "count": 1,
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-02",
+      "notes": []
+    },
+    "Geopolitics": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Geopolitics & Tech": {
+      "count": 1,
+      "first_seen": "2026-07-04",
+      "last_seen": "2026-07-04",
+      "notes": []
+    },
+    "Hardware/Energy Efficiency": {
+      "count": 1,
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-06-29",
+      "notes": []
+    },
+    "Human-AI Interaction": {
+      "count": 1,
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "notes": []
+    },
+    "Interdisciplinary thinking": {
+      "count": 1,
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "notes": []
+    },
+    "LLM": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "LLM Optimization": {
+      "count": 1,
+      "first_seen": "2026-06-27",
+      "last_seen": "2026-06-27",
+      "notes": []
+    },
+    "Labor Market Impact": {
+      "count": 1,
+      "first_seen": "2026-07-04",
+      "last_seen": "2026-07-04",
+      "notes": []
+    },
+    "Large-scale AI": {
+      "count": 1,
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "notes": []
+    },
+    "Light Pollution": {
+      "count": 1,
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "notes": []
+    },
+    "Local AI/Edge AI": {
+      "count": 1,
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-06-29",
+      "notes": []
+    },
+    "Local Context": {
+      "count": 1,
+      "first_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "notes": []
+    },
+    "Local-first AI": {
+      "count": 1,
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "notes": []
+    },
+    "Localized AI / Language Moats (SEA focus)": {
+      "count": 1,
+      "first_seen": "2026-07-21",
+      "last_seen": "2026-07-21",
+      "notes": []
+    },
+    "Market Microstructure": {
+      "count": 4,
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-08-19",
+      "notes": []
+    },
+    "Material Science for Optoelectronics": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Mechanistic Interpretability": {
+      "count": 1,
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-12",
+      "notes": []
+    },
+    "Medtech/Robotics": {
+      "count": 1,
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-06-29",
+      "notes": []
+    },
+    "Moat": {
+      "count": 6,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-09-14",
+      "notes": []
+    },
+    "Moat & Defensibility": {
+      "count": 1,
+      "first_seen": "2026-07-14",
+      "last_seen": "2026-07-14",
+      "notes": []
+    },
+    "Moats": {
+      "count": 8,
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-09-24",
+      "notes": []
+    },
+    "Network Infrastructure": {
+      "count": 1,
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "notes": []
+    },
+    "Nuclear Energy Revival": {
+      "count": 1,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22",
+      "notes": []
+    },
+    "OOD / Long-tailed learning": {
+      "count": 2,
+      "first_seen": "2026-06-26",
+      "last_seen": "2026-09-08",
+      "notes": []
+    },
+    "On-premise Sovereignty": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Open Data": {
+      "count": 1,
+      "first_seen": "2026-07-13",
+      "last_seen": "2026-07-13",
+      "notes": []
+    },
+    "Open Source": {
+      "count": 1,
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "notes": []
+    },
+    "Open Source Tools": {
+      "count": 1,
+      "first_seen": "2026-07-04",
+      "last_seen": "2026-07-04",
+      "notes": []
+    },
+    "Open Source as Moat": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Open-source LLMs capabilities": {
+      "count": 1,
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "notes": []
+    },
+    "Optimal Transport": {
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "notes": []
+    },
+    "Payment Infrastructure Efficiency": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Physical Infrastructure Control": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Platform control / ecosystem risk": {
+      "count": 1,
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "notes": []
+    },
+    "Policy & Geopolitics": {
+      "count": 1,
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28",
+      "notes": []
+    },
+    "Privacy-focused AI tools": {
+      "count": 1,
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16",
+      "notes": []
+    },
+    "Privacy-focused Products": {
+      "count": 1,
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-03",
+      "notes": []
+    },
+    "Privacy/Data Ethics": {
+      "count": 1,
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-06-29",
+      "notes": []
+    },
+    "Product": {
+      "count": 1,
+      "first_seen": "2026-07-06",
+      "last_seen": "2026-07-06",
+      "notes": []
+    },
+    "Public perception of AI": {
+      "count": 1,
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "notes": []
+    },
+    "Quant Trading": {
+      "count": 7,
+      "first_seen": "2026-06-26",
+      "last_seen": "2026-08-31",
+      "notes": []
+    },
+    "Quant Trading & Market Microstructure": {
+      "count": 2,
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-18",
+      "notes": []
+    },
+    "Quantum Computing": {
+      "count": 1,
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "notes": []
+    },
+    "Quantum-enhanced Distributed Training": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Recursive Inference": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Regulatory Risk in Deep Tech": {
+      "count": 1,
+      "first_seen": "2026-09-07",
+      "last_seen": "2026-09-07",
+      "notes": []
+    },
+    "Resource Arbitrage": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Risk Management": {
+      "count": 1,
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-08-01",
+      "notes": []
+    },
+    "Robotics": {
+      "count": 10,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-02",
+      "notes": []
+    },
+    "Robotics in Logistics": {
+      "count": 1,
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "notes": []
+    },
+    "SEA Fintech": {
+      "count": 7,
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-09-16",
+      "notes": []
+    },
+    "SEA Fintech / Payments / Startup Ecosystem": {
+      "count": 5,
+      "first_seen": "2026-06-26",
+      "last_seen": "2026-09-18",
+      "notes": []
+    },
+    "SEA Fintech Dynamics": {
+      "count": 1,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "notes": []
+    },
+    "SEA Startup Ecosystem": {
+      "count": 6,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-24",
+      "notes": []
+    },
+    "SEA fintech": {
+      "count": 1,
+      "first_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "notes": []
+    },
+    "SEA fintech / payments / startup ecosystem": {
+      "count": 3,
+      "first_seen": "2026-06-26",
+      "last_seen": "2026-09-19",
+      "notes": []
+    },
+    "SEA startup ecosystem": {
+      "count": 11,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-09-13",
+      "notes": []
+    },
+    "Semiconductor Failure Analysis": {
+      "count": 1,
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "notes": []
+    },
+    "Sensor stack": {
+      "count": 1,
+      "first_seen": "2026-07-06",
+      "last_seen": "2026-07-06",
+      "notes": []
+    },
+    "Social Media Impact": {
+      "count": 1,
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "notes": []
+    },
+    "Sovereign AI": {
+      "count": 1,
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22",
+      "notes": []
+    },
+    "Startup Anti-patterns": {
+      "count": 1,
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "notes": []
+    },
+    "Sustainability": {
+      "count": 1,
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28",
+      "notes": []
+    },
+    "Systemic Security Risks": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Talent Gap in Deep Tech": {
+      "count": 1,
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-03",
+      "notes": []
+    },
+    "Talent Migration": {
+      "count": 1,
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "notes": []
+    },
+    "Time Series Foundation Models": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Token Compression Skepticism": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Trust as a New Moat (Global Expansion)": {
+      "count": 1,
+      "first_seen": "2026-07-21",
+      "last_seen": "2026-07-21",
+      "notes": []
+    },
+    "Uncertainty": {
+      "count": 1,
+      "first_seen": "2026-06-26",
+      "last_seen": "2026-06-26",
+      "notes": []
+    },
+    "Uncertainty / OOD / Long-tailed learning": {
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "notes": []
+    },
+    "Uncertainty / OOD Learning": {
+      "count": 1,
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "notes": []
+    },
+    "Uncertainty Quantification": {
+      "count": 1,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Unit Economics": {
+      "count": 6,
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-09-24",
+      "notes": []
+    },
+    "Unit economics": {
+      "count": 1,
+      "first_seen": "2026-07-06",
+      "last_seen": "2026-07-06",
+      "notes": []
+    },
+    "VC Thesis": {
+      "count": 1,
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "notes": []
+    },
+    "VC Thesis / Moats": {
+      "count": 1,
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "notes": []
+    },
+    "VC thesis": {
+      "count": 1,
+      "first_seen": "2026-07-06",
+      "last_seen": "2026-07-06",
+      "notes": []
+    },
+    "Wearable Tech / Digital Health": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "notes": []
+    },
+    "Workflow Orchestration": {
+      "count": 1,
+      "first_seen": "2026-07-13",
+      "last_seen": "2026-07-13",
+      "notes": []
+    },
+    "Zero Trust security": {
+      "count": 1,
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "notes": []
+    },
+    "capital allocation": {
+      "count": 1,
+      "first_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "notes": []
+    },
+    "capital allocation / VC thesis / moats": {
+      "count": 1,
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "notes": []
+    },
+    "diffusion models / generative modeling": {
+      "count": 1,
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "notes": []
+    },
+    "quant trading & market microstructure": {
+      "count": 1,
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "notes": []
+    },
+    "uncertainty / OOD / long-tailed learning": {
+      "count": 1,
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "notes": []
+    }
+  }
+}

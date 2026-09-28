@@ -1,0 +1,11 @@
+# Bước 1: requests + pyyaml.
+# Quyết định: dùng raw HTTP (requests) cho cả Gemini và DeepSeek thay vì SDK riêng
+# (google-generativeai, anthropic) để giảm số dependency và tránh lock-in API
+# của SDK khi đổi engine bằng config. Cả hai endpoint đều là REST/JSON đơn giản.
+requests>=2.31.0
+PyYAML>=6.0.1
+# Bước 2: feedparser cho mọi nguồn RSS (funding, github trending, deep_tech).
+# Quyết định: dùng thư viện chuẩn thay vì tự viết XML parser cho ~6 feed khác
+# nhau — feedparser xử lý RSS/Atom lệch chuẩn (rất phổ biến ở RSS thật) tốt
+# hơn ET tự viết, và vẫn nhẹ, không kéo theo dependency nặng.
+feedparser>=6.0.11
