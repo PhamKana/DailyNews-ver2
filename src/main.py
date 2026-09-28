@@ -11,7 +11,6 @@ Chạy local:
 
 from __future__ import annotations
 
-import json
 import logging
 import os
 from pathlib import Path
@@ -21,7 +20,8 @@ import yaml
 from deliver import build_inline_keyboard, deliver, write_items_to_kv, write_trends_to_kv
 from enrich import enrich_items
 from llm_client import LLMClient
-from memory import load_kb, merge_kb_update, save_archive, save_kb, update_seen_ids
+from settings import load_environment
+from memory import load_seen_ids, load_kb, merge_kb_update, save_archive, save_kb, update_seen_ids
 from pipeline import (
     ThesisConfig,
     analyze_stage2,
@@ -65,18 +65,6 @@ def load_thesis(path: Path = THESIS_PATH) -> ThesisConfig:
         keywords_boost=raw.get("keywords_boost", []) or [],
         outside_lane_domains=raw.get("outside_lane_domains", []) or [],
     )
-
-
-def load_seen_ids(path: Path = SEEN_PATH) -> set[str]:
-    if not path.exists():
-        return set()
-    try:
-        with open(path, "r", encoding="utf-8") as f:
-            data = json.load(f)
-        return set(data.get("seen_ids", []))
-    except (json.JSONDecodeError, OSError) as exc:
-        logger.warning("Không đọc được %s, coi như chưa có gì đã gửi: %s", path, exc)
-        return set()
 
 
 SOURCE_FETCHERS = [
@@ -123,12 +111,13 @@ def build_llm_client_or_none() -> LLMClient | None:
 
 
 def main() -> None:
+    load_environment()
     dry_run = os.environ.get("DRY_RUN", "false").lower() == "true"
     if dry_run:
         logger.info("DRY_RUN=true — chạy full pipeline, không gửi Telegram thật.")
 
     thesis = load_thesis()
-    seen_ids = load_seen_ids()
+    seen_ids = load_seen_ids(SEEN_PATH)
     llm_client = build_llm_client_or_none()
 
     logger.info("Stage 0 — fetch tất cả nguồn...")

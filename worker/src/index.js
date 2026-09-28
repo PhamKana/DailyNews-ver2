@@ -1,3 +1,5 @@
+import { callLLM } from "./llm.js";
+
 /**
  * Cloudflare Worker — webhook tương tác Telegram cho Morning Intel Agent.
  *
@@ -12,17 +14,16 @@
  *      LLM (đọc thẳng số liệu, rẻ và xác định được).
  *   4. callback_query "qa:<key>" (bấm nút "🔍 Hỏi sâu thêm" dưới digest)
  *      -> đọc context item từ KV (key ghi bởi src/deliver.py qua
- *      write_items_to_kv), hỏi Gemini đào sâu thêm, reply.
+ *      write_items_to_kv), hỏi AI đào sâu thêm, reply.
  *   5. text tự do khác         -> coi là câu hỏi follow-up, dùng toàn bộ
  *      context "latest_items" + "trends:latest" trong KV làm nền, CỘNG lịch
  *      sử hội thoại gần đây của chính chat_id đó (key "conv:<chatId>") để
  *      trả lời có tính liên tục, không phải hỏi-đáp rời rạc từng lần.
  *
  * Nguyên tắc: KHÔNG để Telegram timeout im lặng — mọi nhánh lỗi (KV rỗng,
- * Gemini lỗi, GitHub API lỗi) đều phải sendMessage báo lỗi rõ cho operator.
+ * API AI lỗi, GitHub API lỗi) đều phải sendMessage báo lỗi rõ cho operator.
  *
- * Không dùng SDK nào (Gemini gọi raw fetch HTTP) để giữ Worker thuần JS,
- * không cần build step — theo đúng yêu cầu "free tier, không framework".
+ * HTTP adapters ở llm.js; cấu hình dùng chung với Python ở config/api.json.
  */
 
 const TELEGRAM_API = (token, method) => `https://api.telegram.org/bot${token}/${method}`;
@@ -343,7 +344,7 @@ async function handleCallbackQuery(callbackQuery, env) {
   await sendMessage(env, chatId, `🔍 Hỏi sâu thêm: "${itemTitle}"\n⏳ Đang phân tích...`);
 
   const prompt = buildDeepDivePrompt(itemCtx);
-  const result = await callGemini(env, prompt);
+  const result = await callLLM(env, prompt);
   if (!result.ok) {
     await sendMessage(env, chatId, result.error);
     return;
@@ -452,7 +453,7 @@ async function handleItemSpecificQuestion(chatId, itemKey, question, env) {
 
   const history = await getConversation(env, chatId);
   const prompt = buildItemQuestionPrompt(itemCtx, history, question);
-  const result = await callGemini(env, prompt);
+  const result = await callLLM(env, prompt);
   if (!result.ok) {
     await sendMessage(env, chatId, result.error);
     return;
@@ -527,7 +528,7 @@ async function handleFreeTextQuestion(chatId, question, env) {
   }
 
   const prompt = buildFreeTextPrompt(items, trends, history, question);
-  const result = await callGemini(env, prompt);
+  const result = await callLLM(env, prompt);
   if (!result.ok) {
     await sendMessage(env, chatId, result.error);
     return;
@@ -624,46 +625,6 @@ async function appendConversation(env, chatId, userText, modelText) {
 function formatConversationHistory(turns) {
   if (!turns || !turns.length) return "(chưa có lịch sử hội thoại trước đó)";
   return turns.map((t) => `${t.role === "user" ? "Operator" : "Bot"}: ${t.text}`).join("\n");
-}
-
-// ---------------------------------------------------------------------
-// Gemini call (raw HTTP, không SDK)
-// ---------------------------------------------------------------------
-
-async function callGemini(env, prompt) {
-  if (!env.GEMINI_API_KEY) {
-    return { ok: false, error: "Worker thiếu GEMINI_API_KEY — không gọi được LLM để trả lời." };
-  }
-
-  const model = env.GEMINI_MODEL || "gemini-2.5-flash";
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${env.GEMINI_API_KEY}`;
-
-  try {
-    const resp = await fetch(url, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        contents: [{ role: "user", parts: [{ text: prompt }] }],
-        generationConfig: { temperature: 0.3 },
-      }),
-    });
-
-    if (!resp.ok) {
-      const body = await resp.text();
-      return { ok: false, error: `⚠️ Gemini lỗi (status ${resp.status}): ${truncate(body, 300)}` };
-    }
-
-    const data = await resp.json();
-    const text = data?.candidates?.[0]?.content?.parts?.[0]?.text;
-
-    if (!text) {
-      return { ok: false, error: "⚠️ Gemini trả response không có nội dung." };
-    }
-
-    return { ok: true, text };
-  } catch (err) {
-    return { ok: false, error: `⚠️ Lỗi gọi Gemini: ${escapeForTelegram(String(err))}` };
-  }
 }
 
 // ---------------------------------------------------------------------

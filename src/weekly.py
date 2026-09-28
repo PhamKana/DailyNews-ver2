@@ -16,6 +16,7 @@ from pathlib import Path
 
 from deliver import deliver
 from llm_client import LLMClient
+from settings import load_environment
 from memory import load_kb
 from pipeline import build_kb_summary
 from prompts import WEEKLY_SYSTEM_PROMPT
@@ -77,6 +78,7 @@ def _week_str(now: datetime) -> str:
 
 
 def main() -> None:
+    load_environment()
     dry_run = os.environ.get("DRY_RUN", "false").lower() == "true"
     if dry_run:
         logger.info("DRY_RUN=true — chạy weekly, không gửi Telegram.")

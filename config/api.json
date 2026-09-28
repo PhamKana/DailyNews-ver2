@@ -1,0 +1,17 @@
+{
+  "engine": "gemini",
+  "temperature": 0.2,
+  "timeout_seconds": 60,
+  "max_tokens": 4096,
+  "providers": {
+    "gemini": {
+      "model": "gemini-3-flash-preview",
+      "fallback_models": ["gemini-2.5-flash", "gemini-2.5-flash-lite"],
+      "endpoint": "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+    },
+    "deepseek": {
+      "model": "deepseek-v4-flash",
+      "endpoint": "https://api.deepseek.com/anthropic/v1/messages"
+    }
+  }
+}

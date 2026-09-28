@@ -1,8 +1,5 @@
 """Item dataclass chung + Stage 1 (filter rule-based, rẻ) + Stage 1 LLM batch
 ranking + Stage 2 (LLM analyze full 6 mục).
-
-Bước 2+: pipeline.py phình thêm hàm khi build tiếp (đúng kế hoạch ban đầu),
-không tách file mới cho mỗi stage.
 """
 
 from __future__ import annotations
@@ -26,9 +23,7 @@ VALID_TYPES = {"research", "funding", "product", "deep_tech", "outside"}
 class Item:
     """Đại diện chuẩn hoá cho mọi item từ mọi nguồn (§2 của brief).
 
-    source_tier: mặc định = 3 (an toàn, "chưa uy tín tới khi được thêm vào
-    bảng"). Việc tra bảng tier thật (source_registry.py) là bước 3 — ở bước 1
-    field này chỉ là stub để các module sau gắn vào, KHÔNG implement registry.
+    source_tier mặc định là 3; verify.py tra registry khi đánh giá nguồn.
     """
 
     id: str

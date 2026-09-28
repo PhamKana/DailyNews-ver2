@@ -1,12 +1,4 @@
-"""Lớp trừu tượng gọi LLM: engine chính = Gemini Flash-Lite, fallback = DeepSeek
-V4 Flash (endpoint Anthropic-compatible). Đổi engine bằng config/env, không
-hardcode. Dùng raw HTTP (requests) thay vì SDK để giảm dependency — xem
-requirements.txt.
-
-Bước 1: chỉ cần interface sẵn sàng (generate()). main.py bước 1 CHƯA gọi LLM
-thật (Stage 1 dùng heuristic rule-based thuần). Việc gọi LLM rẻ để xếp hạng
-batch sẽ nối vào pipeline ở bước sau, dùng lại class này.
-"""
+"""Gemini and DeepSeek HTTP adapters; defaults live in config/api.json."""
 
 from __future__ import annotations
 
@@ -18,27 +10,9 @@ from typing import Optional
 
 import requests
 
+from settings import load_api_settings, load_environment
+
 logger = logging.getLogger(__name__)
-
-# Đổi từ "gemini-flash-lite-latest" (model nhỏ/rẻ) lên "gemini-2.5-flash"
-# (Flash đầy đủ, bản stable — không dùng alias "gemini-flash-latest" vì test
-# thực tế gặp 503 quá tải, "2.5-flash" ổn định hơn): operator báo insight chưa
-# đủ sâu. Vẫn free tier (giới hạn request/phút thấp hơn Lite, nhưng pipeline
-# chỉ gọi 2 lần/ngày nên không chạm giới hạn). Override qua env GEMINI_MODEL.
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
-GEMINI_ENDPOINT = (
-    "https://generativelanguage.googleapis.com/v1beta/models/"
-    "{model}:generateContent"
-)
-DEEPSEEK_MODEL = os.environ.get("DEEPSEEK_MODEL", "deepseek-v4-flash")
-# Endpoint Anthropic-compatible theo brief §1.
-DEEPSEEK_ENDPOINT = "https://api.deepseek.com/anthropic/v1/messages"
-
-DEFAULT_TIMEOUT_S = 60
-# Temperature thấp (mặc định API thường ~1.0) để output ổn định/nhất quán
-# giữa các lần gọi — đây vốn là phân tích/báo cáo, không cần sáng tạo cao,
-# và operator báo "chất lượng mỗi lần gửi khác nhau" -> giảm variance.
-DEFAULT_TEMPERATURE = float(os.environ.get("LLM_TEMPERATURE", "0.2"))
 
 
 class LLMError(RuntimeError):
@@ -51,10 +25,11 @@ class LLMResponse:
     engine: str  # "gemini" | "deepseek"
     input_tokens: Optional[int] = None
     output_tokens: Optional[int] = None
+    model: Optional[str] = None
 
 
 class LLMClient:
-    """Gọi Gemini Flash-Lite trước; nếu lỗi/429/thiếu key thì fallback DeepSeek.
+    """Gọi Gemini trước; nếu lỗi/429/thiếu key thì fallback DeepSeek.
 
     Engine có thể override qua biến môi trường LLM_ENGINE=gemini|deepseek để
     test hoặc ép dùng 1 engine cụ thể.
@@ -65,14 +40,18 @@ class LLMClient:
         gemini_api_key: Optional[str] = None,
         deepseek_api_key: Optional[str] = None,
         forced_engine: Optional[str] = None,
-        timeout_s: int = DEFAULT_TIMEOUT_S,
+        timeout_s: Optional[int] = None,
     ) -> None:
+        load_environment()
+        self.config = load_api_settings()
         self.gemini_api_key = gemini_api_key or os.environ.get("GEMINI_API_KEY")
         self.deepseek_api_key = deepseek_api_key or os.environ.get(
             "DEEPSEEK_API_KEY"
         )
-        self.forced_engine = forced_engine or os.environ.get("LLM_ENGINE")
-        self.timeout_s = timeout_s
+        self.forced_engine = forced_engine or self.config["engine"]
+        if self.forced_engine not in ("auto", "gemini", "deepseek"):
+            raise ValueError("Engine phải là auto, gemini hoặc deepseek")
+        self.timeout_s = timeout_s if timeout_s is not None else self.config["timeout_seconds"]
 
     def generate(self, prompt: str, system: Optional[str] = None) -> LLMResponse:
         """Sinh text từ prompt. Thử Gemini trước, fallback DeepSeek khi cần.
@@ -113,16 +92,26 @@ class LLMClient:
         if not self.gemini_api_key:
             raise LLMError("Thiếu GEMINI_API_KEY")
 
-        url = GEMINI_ENDPOINT.format(model=GEMINI_MODEL)
-        contents = []
-        if system:
-            # Gemini generateContent dùng systemInstruction riêng.
-            pass
-        contents.append({"role": "user", "parts": [{"text": prompt}]})
+        provider = self.config["providers"]["gemini"]
+        models = [provider["model"], *provider.get("fallback_models", [])]
+        for model in models:
+            try:
+                response = self._call_gemini_model(prompt, system, model)
+                logger.info("Gemini model thành công: %s", model)
+                return response
+            except (requests.RequestException, LLMError, ValueError, TypeError) as exc:
+                # Log the failure type, not exception URLs that may contain a key.
+                logger.warning("Gemini model %s thất bại (%s)", model, type(exc).__name__)
+        raise LLMError(f"Không gọi được các model Gemini: {', '.join(models)}")
+
+    def _call_gemini_model(self, prompt: str, system: Optional[str], model: str) -> LLMResponse:
+        provider = self.config["providers"]["gemini"]
+        url = provider["endpoint"].format(model=model)
+        contents = [{"role": "user", "parts": [{"text": prompt}]}]
 
         payload: dict = {
             "contents": contents,
-            "generationConfig": {"temperature": DEFAULT_TEMPERATURE},
+            "generationConfig": {"temperature": self.config["temperature"]},
         }
         if system:
             payload["systemInstruction"] = {"parts": [{"text": system}]}
@@ -139,14 +128,18 @@ class LLMClient:
         data = resp.json()
 
         try:
-            text = data["candidates"][0]["content"]["parts"][0]["text"]
+            parts = data["candidates"][0]["content"]["parts"]
+            text = "".join(part.get("text", "") for part in parts if not part.get("thought"))
         except (KeyError, IndexError) as exc:
-            raise LLMError(f"Gemini response không đúng format: {data}") from exc
+            raise LLMError("Gemini response không đúng format") from exc
+        if not text.strip():
+            raise LLMError("Gemini trả nội dung rỗng")
 
         usage = data.get("usageMetadata", {})
         return LLMResponse(
             text=text,
             engine="gemini",
+            model=model,
             input_tokens=usage.get("promptTokenCount"),
             output_tokens=usage.get("candidatesTokenCount"),
         )
@@ -161,16 +154,16 @@ class LLMClient:
             "content-type": "application/json",
         }
         payload = {
-            "model": DEEPSEEK_MODEL,
-            "max_tokens": 4096,
-            "temperature": DEFAULT_TEMPERATURE,
+            "model": self.config["providers"]["deepseek"]["model"],
+            "max_tokens": self.config["max_tokens"],
+            "temperature": self.config["temperature"],
             "messages": [{"role": "user", "content": prompt}],
         }
         if system:
             payload["system"] = system
 
         resp = requests.post(
-            DEEPSEEK_ENDPOINT, headers=headers, json=payload, timeout=self.timeout_s
+            self.config["providers"]["deepseek"]["endpoint"], headers=headers, json=payload, timeout=self.timeout_s
         )
         if resp.status_code == 429:
             raise LLMError("DeepSeek rate-limited (429)")
